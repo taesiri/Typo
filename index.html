@@ -5,9 +5,84 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Landing Page</title>
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const dropdown = document.getElementById('configDropdown');
+            const imageDisplay = document.getElementById('imageDisplay');
+            const copyImgBtn = document.getElementById('copyImgBtn');
+            const copyUrlBtn = document.getElementById('copyUrlBtn');
+
+            fetch('Extraordinary/configurations.json')
+                .then(response => response.json())
+                .then(data => {
+                    const groups = {};
+
+                    data.forEach((item, index) => {
+                        const groupKey = `Circle ${item.circle_index}, Thickness ${item.thickness}`;
+                        if (!groups[groupKey]) {
+                            groups[groupKey] = [];
+                        }
+                        groups[groupKey].push(item);
+                    });
+
+                    Object.keys(groups).forEach((key, index) => {
+                        const optGroup = document.createElement('optgroup');
+                        optGroup.label = key;
+                        groups[key].forEach(item => {
+                            const option = document.createElement('option');
+                            option.value = './Extraordinary/' + item.image_path;
+                            option.textContent = `Config ${item.radius_x}x${item.radius_y}`;
+                            optGroup.appendChild(option);
+                        });
+                        dropdown.appendChild(optGroup);
+                    });
+
+                    dropdown.addEventListener('change', function() {
+                        imageDisplay.src = this.value;
+                        imageDisplay.alt = 'Selected Text Image';
+                    });
+
+                    if (data.length > 0) {
+                        imageDisplay.src = './Extraordinary/' + data[0].image_path;
+                        imageDisplay.alt = 'Selected Text Image';
+                    }
+
+                    copyImgBtn.addEventListener('click', function() {
+                        fetch(imageDisplay.src)
+                            .then(res => res.blob())
+                            .then(blob => {
+                                const reader = new FileReader();
+                                reader.readAsDataURL(blob);
+                                reader.onloadend = function() {
+                                    navigator.clipboard.writeText(reader.result)
+                                        .then(() => alert('Image copied as data URL!'))
+                                        .catch(err => console.error('Error copying image:', err));
+                                };
+                            });
+                    });
+
+                    copyUrlBtn.addEventListener('click', function() {
+                        navigator.clipboard.writeText(imageDisplay.src)
+                            .then(() => alert('Image URL copied!'))
+                            .catch(err => console.error('Error copying URL:', err));
+                    });
+                })
+                .catch(error => console.error('Error loading the configurations:', error));
+        });
+    </script>
 </head>
-<body class="flex items-center justify-center h-screen">
-    <h1 class="text-4xl font-bold">Words</h1>
+<body class="flex flex-col items-center justify-center h-screen">
+    <h1 class="text-4xl font-bold mb-4">Select a Configuration</h1>
+    <select id="configDropdown" class="mb-4 p-2 border-2 border-gray-300 rounded">
+        <!-- Grouped options will be loaded here -->
+    </select>
+    <img id="imageDisplay" alt="Selected Text Image" class="max-w-xs mb-4">
+    <button id="copyImgBtn" class="p-2 bg-blue-500 text-white rounded hover:bg-blue-700">
+        <i class="far fa-copy"></i> Copy Image
+    </button>
+    <button id="copyUrlBtn" class="p-2 bg-green-500 text-white rounded hover:bg-green-700">
+        <i class="fas fa-link"></i> Copy URL
+    </button>
 </body>
 </html>
-
