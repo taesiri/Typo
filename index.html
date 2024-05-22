@@ -6,9 +6,16 @@
     <title>Landing Page</title>
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <style>
+        .dropdown { width: 300px; }
+        .button { transition: background-color 0.3s; }
+    </style>
     <script>
         document.addEventListener('DOMContentLoaded', function() {
-            const dropdown = document.getElementById('configDropdown');
+            const fontDropdown = document.getElementById('fontDropdown');
+            const circleIndexDropdown = document.getElementById('circleIndexDropdown');
+            const thicknessDropdown = document.getElementById('thicknessDropdown');
+            const configDropdown = document.getElementById('configDropdown');
             const imageDisplay = document.getElementById('imageDisplay');
             const copyImgBtn = document.getElementById('copyImgBtn');
             const copyUrlBtn = document.getElementById('copyUrlBtn');
@@ -16,37 +23,73 @@
             fetch('Extraordinary/configurations.json')
                 .then(response => response.json())
                 .then(data => {
-                    const groups = {};
+                    const fonts = new Set();
+                    const circleIndices = new Set();
+                    const thicknesses = new Set();
 
-                    data.forEach((item, index) => {
-                        const groupKey = `Circle ${item.circle_index}, Thickness ${item.thickness}`;
-                        if (!groups[groupKey]) {
-                            groups[groupKey] = [];
-                        }
-                        groups[groupKey].push(item);
+                    data.forEach(item => {
+                        fonts.add(item.font_path);
+                        circleIndices.add(item.circle_index);
+                        thicknesses.add(item.thickness);
                     });
 
-                    Object.keys(groups).forEach((key, index) => {
-                        const optGroup = document.createElement('optgroup');
-                        optGroup.label = key;
-                        groups[key].forEach(item => {
+                    fonts.forEach(font => {
+                        const option = document.createElement('option');
+                        option.value = font;
+                        option.textContent = font.split('/').pop();
+                        fontDropdown.appendChild(option);
+                    });
+
+                    circleIndices.forEach(index => {
+                        const option = document.createElement('option');
+                        option.value = index;
+                        option.textContent = `Circle Index ${index}`;
+                        circleIndexDropdown.appendChild(option);
+                    });
+
+                    thicknesses.forEach(thickness => {
+                        const option = document.createElement('option');
+                        option.value = thickness;
+                        option.textContent = `Thickness ${thickness}`;
+                        thicknessDropdown.appendChild(option);
+                    });
+
+                    function updateConfigurations() {
+                        const selectedFont = fontDropdown.value;
+                        const selectedCircleIndex = circleIndexDropdown.value;
+                        const selectedThickness = thicknessDropdown.value;
+
+                        const filteredConfigs = data.filter(item => 
+                            item.font_path === selectedFont &&
+                            item.circle_index == selectedCircleIndex &&
+                            item.thickness == selectedThickness
+                        );
+
+                        configDropdown.innerHTML = ''; // Clear existing options
+
+                        filteredConfigs.forEach(item => {
                             const option = document.createElement('option');
                             option.value = './Extraordinary/' + item.image_path;
                             option.textContent = `Config ${item.radius_x}x${item.radius_y}`;
-                            optGroup.appendChild(option);
+                            configDropdown.appendChild(option);
                         });
-                        dropdown.appendChild(optGroup);
-                    });
 
-                    dropdown.addEventListener('change', function() {
+                        if (filteredConfigs.length > 0) {
+                            imageDisplay.src = './Extraordinary/' + filteredConfigs[0].image_path;
+                            imageDisplay.alt = 'Selected Text Image';
+                        }
+                    }
+
+                    fontDropdown.addEventListener('change', updateConfigurations);
+                    circleIndexDropdown.addEventListener('change', updateConfigurations);
+                    thicknessDropdown.addEventListener('change', updateConfigurations);
+
+                    updateConfigurations(); // Initial population
+
+                    configDropdown.addEventListener('change', function() {
                         imageDisplay.src = this.value;
                         imageDisplay.alt = 'Selected Text Image';
                     });
-
-                    if (data.length > 0) {
-                        imageDisplay.src = './Extraordinary/' + data[0].image_path;
-                        imageDisplay.alt = 'Selected Text Image';
-                    }
 
                     copyImgBtn.addEventListener('click', function() {
                         fetch(imageDisplay.src)
@@ -72,17 +115,50 @@
         });
     </script>
 </head>
-<body class="flex flex-col items-center justify-center h-screen">
-    <h1 class="text-4xl font-bold mb-4">Select a Configuration</h1>
-    <select id="configDropdown" class="mb-4 p-2 border-2 border-gray-300 rounded">
-        <!-- Grouped options will be loaded here -->
-    </select>
-    <img id="imageDisplay" alt="Selected Text Image" class="max-w-xs mb-4">
-    <button id="copyImgBtn" class="p-2 bg-blue-500 text-white rounded hover:bg-blue-700">
-        <i class="far fa-copy"></i> Copy Image
-    </button>
-    <button id="copyUrlBtn" class="p-2 bg-green-500 text-white rounded hover:bg-green-700">
-        <i class="fas fa-link"></i> Copy URL
-    </button>
+<body class="bg-gray-100 flex flex-col items-center justify-center min-h-screen">
+    <div class="bg-white shadow-md rounded px-8 pt-6 pb-8 mb-4">
+        <h1 class="text-4xl font-bold mb-6 text-center">Select a Configuration</h1>
+        <div class="mb-4">
+            <label class="block text-gray-700 text-sm font-bold mb-2" for="fontDropdown">
+                Font
+            </label>
+            <select id="fontDropdown" class="dropdown shadow border rounded py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+                <!-- Font options will be loaded here -->
+            </select>
+        </div>
+        <div class="mb-4">
+            <label class="block text-gray-700 text-sm font-bold mb-2" for="circleIndexDropdown">
+                Circle Index
+            </label>
+            <select id="circleIndexDropdown" class="dropdown shadow border rounded py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+                <!-- Circle index options will be loaded here -->
+            </select>
+        </div>
+        <div class="mb-4">
+            <label class="block text-gray-700 text-sm font-bold mb-2" for="thicknessDropdown">
+                Thickness
+            </label>
+            <select id="thicknessDropdown" class="dropdown shadow border rounded py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+                <!-- Thickness options will be loaded here -->
+            </select>
+        </div>
+        <div class="mb-6">
+            <label class="block text-gray-700 text-sm font-bold mb-2" for="configDropdown">
+                Configuration
+            </label>
+            <select id="configDropdown" class="dropdown shadow border rounded py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+                <!-- Configuration options will be loaded here based on the selected font, circle index, and thickness -->
+            </select>
+        </div>
+        <img id="imageDisplay" alt="Selected Text Image" class="max-w-xs mb-4">
+        <div class="flex justify-center gap-4">
+            <button id="copyImgBtn" class="button p-2 bg-blue-500 text-white rounded hover:bg-blue-700">
+                <i class="far fa-copy"></i> Copy Image
+            </button>
+            <button id="copyUrlBtn" class="button p-2 bg-green-500 text-white rounded hover:bg-green-700">
+                <i class="fas fa-link"></i> Copy URL
+            </button>
+        </div>
+    </div>
 </body>
 </html>
