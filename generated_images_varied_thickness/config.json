@@ -1,0 +1,1352 @@
+{
+    "image_0_thickness_2.png": {
+        "num_points": 3,
+        "num_intersections": 1,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 2
+    },
+    "image_0_thickness_3.png": {
+        "num_points": 3,
+        "num_intersections": 1,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 3
+    },
+    "image_0_thickness_4.png": {
+        "num_points": 3,
+        "num_intersections": 1,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 4
+    },
+    "image_1_thickness_2.png": {
+        "num_points": 3,
+        "num_intersections": 1,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 2
+    },
+    "image_1_thickness_3.png": {
+        "num_points": 3,
+        "num_intersections": 1,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 3
+    },
+    "image_1_thickness_4.png": {
+        "num_points": 3,
+        "num_intersections": 1,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 4
+    },
+    "image_2_thickness_2.png": {
+        "num_points": 3,
+        "num_intersections": 1,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 2
+    },
+    "image_2_thickness_3.png": {
+        "num_points": 3,
+        "num_intersections": 1,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 3
+    },
+    "image_2_thickness_4.png": {
+        "num_points": 3,
+        "num_intersections": 1,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 4
+    },
+    "image_3_thickness_2.png": {
+        "num_points": 3,
+        "num_intersections": 1,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 2
+    },
+    "image_3_thickness_3.png": {
+        "num_points": 3,
+        "num_intersections": 1,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 3
+    },
+    "image_3_thickness_4.png": {
+        "num_points": 3,
+        "num_intersections": 1,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 4
+    },
+    "image_4_thickness_2.png": {
+        "num_points": 3,
+        "num_intersections": 2,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 2
+    },
+    "image_4_thickness_3.png": {
+        "num_points": 3,
+        "num_intersections": 2,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 3
+    },
+    "image_4_thickness_4.png": {
+        "num_points": 3,
+        "num_intersections": 2,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 4
+    },
+    "image_5_thickness_2.png": {
+        "num_points": 3,
+        "num_intersections": 1,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 2
+    },
+    "image_5_thickness_3.png": {
+        "num_points": 3,
+        "num_intersections": 1,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 3
+    },
+    "image_5_thickness_4.png": {
+        "num_points": 3,
+        "num_intersections": 1,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 4
+    },
+    "image_6_thickness_2.png": {
+        "num_points": 3,
+        "num_intersections": 1,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 2
+    },
+    "image_6_thickness_3.png": {
+        "num_points": 3,
+        "num_intersections": 1,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 3
+    },
+    "image_6_thickness_4.png": {
+        "num_points": 3,
+        "num_intersections": 1,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 4
+    },
+    "image_7_thickness_2.png": {
+        "num_points": 3,
+        "num_intersections": 1,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 2
+    },
+    "image_7_thickness_3.png": {
+        "num_points": 3,
+        "num_intersections": 1,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 3
+    },
+    "image_7_thickness_4.png": {
+        "num_points": 3,
+        "num_intersections": 1,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 4
+    },
+    "image_8_thickness_2.png": {
+        "num_points": 3,
+        "num_intersections": 1,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 2
+    },
+    "image_8_thickness_3.png": {
+        "num_points": 3,
+        "num_intersections": 1,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 3
+    },
+    "image_8_thickness_4.png": {
+        "num_points": 3,
+        "num_intersections": 1,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 4
+    },
+    "image_9_thickness_2.png": {
+        "num_points": 3,
+        "num_intersections": 2,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 2
+    },
+    "image_9_thickness_3.png": {
+        "num_points": 3,
+        "num_intersections": 2,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 3
+    },
+    "image_9_thickness_4.png": {
+        "num_points": 3,
+        "num_intersections": 2,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 4
+    },
+    "image_10_thickness_2.png": {
+        "num_points": 3,
+        "num_intersections": 0,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 2
+    },
+    "image_10_thickness_3.png": {
+        "num_points": 3,
+        "num_intersections": 0,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 3
+    },
+    "image_10_thickness_4.png": {
+        "num_points": 3,
+        "num_intersections": 0,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 4
+    },
+    "image_11_thickness_2.png": {
+        "num_points": 3,
+        "num_intersections": 2,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 2
+    },
+    "image_11_thickness_3.png": {
+        "num_points": 3,
+        "num_intersections": 2,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 3
+    },
+    "image_11_thickness_4.png": {
+        "num_points": 3,
+        "num_intersections": 2,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 4
+    },
+    "image_12_thickness_2.png": {
+        "num_points": 3,
+        "num_intersections": 1,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 2
+    },
+    "image_12_thickness_3.png": {
+        "num_points": 3,
+        "num_intersections": 1,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 3
+    },
+    "image_12_thickness_4.png": {
+        "num_points": 3,
+        "num_intersections": 1,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 4
+    },
+    "image_13_thickness_2.png": {
+        "num_points": 3,
+        "num_intersections": 1,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 2
+    },
+    "image_13_thickness_3.png": {
+        "num_points": 3,
+        "num_intersections": 1,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 3
+    },
+    "image_13_thickness_4.png": {
+        "num_points": 3,
+        "num_intersections": 1,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 4
+    },
+    "image_14_thickness_2.png": {
+        "num_points": 3,
+        "num_intersections": 1,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 2
+    },
+    "image_14_thickness_3.png": {
+        "num_points": 3,
+        "num_intersections": 1,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 3
+    },
+    "image_14_thickness_4.png": {
+        "num_points": 3,
+        "num_intersections": 1,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 4
+    },
+    "image_15_thickness_2.png": {
+        "num_points": 3,
+        "num_intersections": 1,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 2
+    },
+    "image_15_thickness_3.png": {
+        "num_points": 3,
+        "num_intersections": 1,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 3
+    },
+    "image_15_thickness_4.png": {
+        "num_points": 3,
+        "num_intersections": 1,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 4
+    },
+    "image_16_thickness_2.png": {
+        "num_points": 3,
+        "num_intersections": 2,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 2
+    },
+    "image_16_thickness_3.png": {
+        "num_points": 3,
+        "num_intersections": 2,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 3
+    },
+    "image_16_thickness_4.png": {
+        "num_points": 3,
+        "num_intersections": 2,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 4
+    },
+    "image_17_thickness_2.png": {
+        "num_points": 3,
+        "num_intersections": 0,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 2
+    },
+    "image_17_thickness_3.png": {
+        "num_points": 3,
+        "num_intersections": 0,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 3
+    },
+    "image_17_thickness_4.png": {
+        "num_points": 3,
+        "num_intersections": 0,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 4
+    },
+    "image_18_thickness_2.png": {
+        "num_points": 3,
+        "num_intersections": 0,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 2
+    },
+    "image_18_thickness_3.png": {
+        "num_points": 3,
+        "num_intersections": 0,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 3
+    },
+    "image_18_thickness_4.png": {
+        "num_points": 3,
+        "num_intersections": 0,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 4
+    },
+    "image_19_thickness_2.png": {
+        "num_points": 3,
+        "num_intersections": 2,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 2
+    },
+    "image_19_thickness_3.png": {
+        "num_points": 3,
+        "num_intersections": 2,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 3
+    },
+    "image_19_thickness_4.png": {
+        "num_points": 3,
+        "num_intersections": 2,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 4
+    },
+    "image_20_thickness_2.png": {
+        "num_points": 3,
+        "num_intersections": 1,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 2
+    },
+    "image_20_thickness_3.png": {
+        "num_points": 3,
+        "num_intersections": 1,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 3
+    },
+    "image_20_thickness_4.png": {
+        "num_points": 3,
+        "num_intersections": 1,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 4
+    },
+    "image_21_thickness_2.png": {
+        "num_points": 3,
+        "num_intersections": 2,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 2
+    },
+    "image_21_thickness_3.png": {
+        "num_points": 3,
+        "num_intersections": 2,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 3
+    },
+    "image_21_thickness_4.png": {
+        "num_points": 3,
+        "num_intersections": 2,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 4
+    },
+    "image_22_thickness_2.png": {
+        "num_points": 3,
+        "num_intersections": 2,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 2
+    },
+    "image_22_thickness_3.png": {
+        "num_points": 3,
+        "num_intersections": 2,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 3
+    },
+    "image_22_thickness_4.png": {
+        "num_points": 3,
+        "num_intersections": 2,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 4
+    },
+    "image_23_thickness_2.png": {
+        "num_points": 3,
+        "num_intersections": 1,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 2
+    },
+    "image_23_thickness_3.png": {
+        "num_points": 3,
+        "num_intersections": 1,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 3
+    },
+    "image_23_thickness_4.png": {
+        "num_points": 3,
+        "num_intersections": 1,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 4
+    },
+    "image_24_thickness_2.png": {
+        "num_points": 3,
+        "num_intersections": 2,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 2
+    },
+    "image_24_thickness_3.png": {
+        "num_points": 3,
+        "num_intersections": 2,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 3
+    },
+    "image_24_thickness_4.png": {
+        "num_points": 3,
+        "num_intersections": 2,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 4
+    },
+    "image_25_thickness_2.png": {
+        "num_points": 3,
+        "num_intersections": 1,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 2
+    },
+    "image_25_thickness_3.png": {
+        "num_points": 3,
+        "num_intersections": 1,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 3
+    },
+    "image_25_thickness_4.png": {
+        "num_points": 3,
+        "num_intersections": 1,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 4
+    },
+    "image_26_thickness_2.png": {
+        "num_points": 3,
+        "num_intersections": 2,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 2
+    },
+    "image_26_thickness_3.png": {
+        "num_points": 3,
+        "num_intersections": 2,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 3
+    },
+    "image_26_thickness_4.png": {
+        "num_points": 3,
+        "num_intersections": 2,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 4
+    },
+    "image_27_thickness_2.png": {
+        "num_points": 3,
+        "num_intersections": 1,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 2
+    },
+    "image_27_thickness_3.png": {
+        "num_points": 3,
+        "num_intersections": 1,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 3
+    },
+    "image_27_thickness_4.png": {
+        "num_points": 3,
+        "num_intersections": 1,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 4
+    },
+    "image_28_thickness_2.png": {
+        "num_points": 3,
+        "num_intersections": 0,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 2
+    },
+    "image_28_thickness_3.png": {
+        "num_points": 3,
+        "num_intersections": 0,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 3
+    },
+    "image_28_thickness_4.png": {
+        "num_points": 3,
+        "num_intersections": 0,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 4
+    },
+    "image_29_thickness_2.png": {
+        "num_points": 3,
+        "num_intersections": 0,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 2
+    },
+    "image_29_thickness_3.png": {
+        "num_points": 3,
+        "num_intersections": 0,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 3
+    },
+    "image_29_thickness_4.png": {
+        "num_points": 3,
+        "num_intersections": 0,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 4
+    },
+    "image_30_thickness_2.png": {
+        "num_points": 3,
+        "num_intersections": 1,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 2
+    },
+    "image_30_thickness_3.png": {
+        "num_points": 3,
+        "num_intersections": 1,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 3
+    },
+    "image_30_thickness_4.png": {
+        "num_points": 3,
+        "num_intersections": 1,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 4
+    },
+    "image_31_thickness_2.png": {
+        "num_points": 3,
+        "num_intersections": 0,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 2
+    },
+    "image_31_thickness_3.png": {
+        "num_points": 3,
+        "num_intersections": 0,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 3
+    },
+    "image_31_thickness_4.png": {
+        "num_points": 3,
+        "num_intersections": 0,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 4
+    },
+    "image_32_thickness_2.png": {
+        "num_points": 3,
+        "num_intersections": 0,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 2
+    },
+    "image_32_thickness_3.png": {
+        "num_points": 3,
+        "num_intersections": 0,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 3
+    },
+    "image_32_thickness_4.png": {
+        "num_points": 3,
+        "num_intersections": 0,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 4
+    },
+    "image_33_thickness_2.png": {
+        "num_points": 3,
+        "num_intersections": 1,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 2
+    },
+    "image_33_thickness_3.png": {
+        "num_points": 3,
+        "num_intersections": 1,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 3
+    },
+    "image_33_thickness_4.png": {
+        "num_points": 3,
+        "num_intersections": 1,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 4
+    },
+    "image_34_thickness_2.png": {
+        "num_points": 3,
+        "num_intersections": 1,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 2
+    },
+    "image_34_thickness_3.png": {
+        "num_points": 3,
+        "num_intersections": 1,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 3
+    },
+    "image_34_thickness_4.png": {
+        "num_points": 3,
+        "num_intersections": 1,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 4
+    },
+    "image_35_thickness_2.png": {
+        "num_points": 3,
+        "num_intersections": 1,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 2
+    },
+    "image_35_thickness_3.png": {
+        "num_points": 3,
+        "num_intersections": 1,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 3
+    },
+    "image_35_thickness_4.png": {
+        "num_points": 3,
+        "num_intersections": 1,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 4
+    },
+    "image_36_thickness_2.png": {
+        "num_points": 3,
+        "num_intersections": 0,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 2
+    },
+    "image_36_thickness_3.png": {
+        "num_points": 3,
+        "num_intersections": 0,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 3
+    },
+    "image_36_thickness_4.png": {
+        "num_points": 3,
+        "num_intersections": 0,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 4
+    },
+    "image_37_thickness_2.png": {
+        "num_points": 3,
+        "num_intersections": 1,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 2
+    },
+    "image_37_thickness_3.png": {
+        "num_points": 3,
+        "num_intersections": 1,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 3
+    },
+    "image_37_thickness_4.png": {
+        "num_points": 3,
+        "num_intersections": 1,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 4
+    },
+    "image_38_thickness_2.png": {
+        "num_points": 3,
+        "num_intersections": 1,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 2
+    },
+    "image_38_thickness_3.png": {
+        "num_points": 3,
+        "num_intersections": 1,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 3
+    },
+    "image_38_thickness_4.png": {
+        "num_points": 3,
+        "num_intersections": 1,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 4
+    },
+    "image_39_thickness_2.png": {
+        "num_points": 3,
+        "num_intersections": 0,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 2
+    },
+    "image_39_thickness_3.png": {
+        "num_points": 3,
+        "num_intersections": 0,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 3
+    },
+    "image_39_thickness_4.png": {
+        "num_points": 3,
+        "num_intersections": 0,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 4
+    },
+    "image_40_thickness_2.png": {
+        "num_points": 3,
+        "num_intersections": 1,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 2
+    },
+    "image_40_thickness_3.png": {
+        "num_points": 3,
+        "num_intersections": 1,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 3
+    },
+    "image_40_thickness_4.png": {
+        "num_points": 3,
+        "num_intersections": 1,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 4
+    },
+    "image_41_thickness_2.png": {
+        "num_points": 3,
+        "num_intersections": 2,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 2
+    },
+    "image_41_thickness_3.png": {
+        "num_points": 3,
+        "num_intersections": 2,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 3
+    },
+    "image_41_thickness_4.png": {
+        "num_points": 3,
+        "num_intersections": 2,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 4
+    },
+    "image_42_thickness_2.png": {
+        "num_points": 3,
+        "num_intersections": 1,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 2
+    },
+    "image_42_thickness_3.png": {
+        "num_points": 3,
+        "num_intersections": 1,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 3
+    },
+    "image_42_thickness_4.png": {
+        "num_points": 3,
+        "num_intersections": 1,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 4
+    },
+    "image_43_thickness_2.png": {
+        "num_points": 3,
+        "num_intersections": 1,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 2
+    },
+    "image_43_thickness_3.png": {
+        "num_points": 3,
+        "num_intersections": 1,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 3
+    },
+    "image_43_thickness_4.png": {
+        "num_points": 3,
+        "num_intersections": 1,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 4
+    },
+    "image_44_thickness_2.png": {
+        "num_points": 3,
+        "num_intersections": 2,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 2
+    },
+    "image_44_thickness_3.png": {
+        "num_points": 3,
+        "num_intersections": 2,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 3
+    },
+    "image_44_thickness_4.png": {
+        "num_points": 3,
+        "num_intersections": 2,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 4
+    },
+    "image_45_thickness_2.png": {
+        "num_points": 3,
+        "num_intersections": 1,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 2
+    },
+    "image_45_thickness_3.png": {
+        "num_points": 3,
+        "num_intersections": 1,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 3
+    },
+    "image_45_thickness_4.png": {
+        "num_points": 3,
+        "num_intersections": 1,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 4
+    },
+    "image_46_thickness_2.png": {
+        "num_points": 3,
+        "num_intersections": 0,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 2
+    },
+    "image_46_thickness_3.png": {
+        "num_points": 3,
+        "num_intersections": 0,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 3
+    },
+    "image_46_thickness_4.png": {
+        "num_points": 3,
+        "num_intersections": 0,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 4
+    },
+    "image_47_thickness_2.png": {
+        "num_points": 3,
+        "num_intersections": 2,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 2
+    },
+    "image_47_thickness_3.png": {
+        "num_points": 3,
+        "num_intersections": 2,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 3
+    },
+    "image_47_thickness_4.png": {
+        "num_points": 3,
+        "num_intersections": 2,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 4
+    },
+    "image_48_thickness_2.png": {
+        "num_points": 3,
+        "num_intersections": 2,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 2
+    },
+    "image_48_thickness_3.png": {
+        "num_points": 3,
+        "num_intersections": 2,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 3
+    },
+    "image_48_thickness_4.png": {
+        "num_points": 3,
+        "num_intersections": 2,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 4
+    },
+    "image_49_thickness_2.png": {
+        "num_points": 3,
+        "num_intersections": 1,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 2
+    },
+    "image_49_thickness_3.png": {
+        "num_points": 3,
+        "num_intersections": 1,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 3
+    },
+    "image_49_thickness_4.png": {
+        "num_points": 3,
+        "num_intersections": 1,
+        "line_colors": [
+            "red",
+            "blue"
+        ],
+        "line_thickness": 4
+    }
+}
