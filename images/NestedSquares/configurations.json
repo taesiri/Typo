@@ -1,0 +1,4622 @@
+[
+    {
+        "image_name": "nested_squares_depth_2_image_1_thickness_2.pdf",
+        "depth": 2,
+        "center": [
+            -2.2395532434656262,
+            -2.245365217594155
+        ],
+        "initial_size": 17.5741566495224,
+        "reduction_factor": 0.75,
+        "line_thickness": 2,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    -2.2395532434656262,
+                    -2.245365217594155
+                ],
+                "size": 17.5741566495224
+            },
+            {
+                "center": [
+                    -0.3660647610609251,
+                    -0.5628543028406385
+                ],
+                "size": 12.4306174871418
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_2_image_1_thickness_3.pdf",
+        "depth": 2,
+        "center": [
+            -2.2395532434656262,
+            -2.245365217594155
+        ],
+        "initial_size": 17.5741566495224,
+        "reduction_factor": 0.75,
+        "line_thickness": 3,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    -2.2395532434656262,
+                    -2.245365217594155
+                ],
+                "size": 17.5741566495224
+            },
+            {
+                "center": [
+                    -0.3660647610609251,
+                    -0.5628543028406385
+                ],
+                "size": 12.4306174871418
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_2_image_1_thickness_4.pdf",
+        "depth": 2,
+        "center": [
+            -2.2395532434656262,
+            -2.245365217594155
+        ],
+        "initial_size": 17.5741566495224,
+        "reduction_factor": 0.75,
+        "line_thickness": 4,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    -2.2395532434656262,
+                    -2.245365217594155
+                ],
+                "size": 17.5741566495224
+            },
+            {
+                "center": [
+                    -0.3660647610609251,
+                    -0.5628543028406385
+                ],
+                "size": 12.4306174871418
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_2_image_2_thickness_2.pdf",
+        "depth": 2,
+        "center": [
+            4.522003363881829,
+            1.5752939287416918
+        ],
+        "initial_size": 12.158126049374921,
+        "reduction_factor": 0.75,
+        "line_thickness": 2,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    4.522003363881829,
+                    1.5752939287416918
+                ],
+                "size": 12.158126049374921
+            },
+            {
+                "center": [
+                    6.010995300476903,
+                    1.1730377786684643
+                ],
+                "size": 8.368594537031191
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_2_image_2_thickness_3.pdf",
+        "depth": 2,
+        "center": [
+            4.522003363881829,
+            1.5752939287416918
+        ],
+        "initial_size": 12.158126049374921,
+        "reduction_factor": 0.75,
+        "line_thickness": 3,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    4.522003363881829,
+                    1.5752939287416918
+                ],
+                "size": 12.158126049374921
+            },
+            {
+                "center": [
+                    6.010995300476903,
+                    1.1730377786684643
+                ],
+                "size": 8.368594537031191
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_2_image_2_thickness_4.pdf",
+        "depth": 2,
+        "center": [
+            4.522003363881829,
+            1.5752939287416918
+        ],
+        "initial_size": 12.158126049374921,
+        "reduction_factor": 0.75,
+        "line_thickness": 4,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    4.522003363881829,
+                    1.5752939287416918
+                ],
+                "size": 12.158126049374921
+            },
+            {
+                "center": [
+                    6.010995300476903,
+                    1.1730377786684643
+                ],
+                "size": 8.368594537031191
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_2_image_3_thickness_2.pdf",
+        "depth": 2,
+        "center": [
+            4.873560157237129,
+            -3.441955928445953
+        ],
+        "initial_size": 12.636253032738598,
+        "reduction_factor": 0.75,
+        "line_thickness": 2,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    4.873560157237129,
+                    -3.441955928445953
+                ],
+                "size": 12.636253032738598
+            },
+            {
+                "center": [
+                    4.083571761746463,
+                    -2.372515334858142
+                ],
+                "size": 8.727189774553949
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_2_image_3_thickness_3.pdf",
+        "depth": 2,
+        "center": [
+            4.873560157237129,
+            -3.441955928445953
+        ],
+        "initial_size": 12.636253032738598,
+        "reduction_factor": 0.75,
+        "line_thickness": 3,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    4.873560157237129,
+                    -3.441955928445953
+                ],
+                "size": 12.636253032738598
+            },
+            {
+                "center": [
+                    4.083571761746463,
+                    -2.372515334858142
+                ],
+                "size": 8.727189774553949
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_2_image_3_thickness_4.pdf",
+        "depth": 2,
+        "center": [
+            4.873560157237129,
+            -3.441955928445953
+        ],
+        "initial_size": 12.636253032738598,
+        "reduction_factor": 0.75,
+        "line_thickness": 4,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    4.873560157237129,
+                    -3.441955928445953
+                ],
+                "size": 12.636253032738598
+            },
+            {
+                "center": [
+                    4.083571761746463,
+                    -2.372515334858142
+                ],
+                "size": 8.727189774553949
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_2_image_4_thickness_2.pdf",
+        "depth": 2,
+        "center": [
+            -3.74465254081917,
+            2.7603647361578165
+        ],
+        "initial_size": 12.42639609788595,
+        "reduction_factor": 0.75,
+        "line_thickness": 2,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    -3.74465254081917,
+                    2.7603647361578165
+                ],
+                "size": 12.42639609788595
+            },
+            {
+                "center": [
+                    -3.3718506943386624,
+                    4.120994441906008
+                ],
+                "size": 8.569797073414463
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_2_image_4_thickness_3.pdf",
+        "depth": 2,
+        "center": [
+            -3.74465254081917,
+            2.7603647361578165
+        ],
+        "initial_size": 12.42639609788595,
+        "reduction_factor": 0.75,
+        "line_thickness": 3,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    -3.74465254081917,
+                    2.7603647361578165
+                ],
+                "size": 12.42639609788595
+            },
+            {
+                "center": [
+                    -3.3718506943386624,
+                    4.120994441906008
+                ],
+                "size": 8.569797073414463
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_2_image_4_thickness_4.pdf",
+        "depth": 2,
+        "center": [
+            -3.74465254081917,
+            2.7603647361578165
+        ],
+        "initial_size": 12.42639609788595,
+        "reduction_factor": 0.75,
+        "line_thickness": 4,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    -3.74465254081917,
+                    2.7603647361578165
+                ],
+                "size": 12.42639609788595
+            },
+            {
+                "center": [
+                    -3.3718506943386624,
+                    4.120994441906008
+                ],
+                "size": 8.569797073414463
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_2_image_5_thickness_2.pdf",
+        "depth": 2,
+        "center": [
+            4.404187293990333,
+            1.10796823438546
+        ],
+        "initial_size": 16.782808345010842,
+        "reduction_factor": 0.75,
+        "line_thickness": 2,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    4.404187293990333,
+                    1.10796823438546
+                ],
+                "size": 16.782808345010842
+            },
+            {
+                "center": [
+                    2.458845735722657,
+                    -0.5262590156332052
+                ],
+                "size": 11.837106258758132
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_2_image_5_thickness_3.pdf",
+        "depth": 2,
+        "center": [
+            4.404187293990333,
+            1.10796823438546
+        ],
+        "initial_size": 16.782808345010842,
+        "reduction_factor": 0.75,
+        "line_thickness": 3,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    4.404187293990333,
+                    1.10796823438546
+                ],
+                "size": 16.782808345010842
+            },
+            {
+                "center": [
+                    2.458845735722657,
+                    -0.5262590156332052
+                ],
+                "size": 11.837106258758132
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_2_image_5_thickness_4.pdf",
+        "depth": 2,
+        "center": [
+            4.404187293990333,
+            1.10796823438546
+        ],
+        "initial_size": 16.782808345010842,
+        "reduction_factor": 0.75,
+        "line_thickness": 4,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    4.404187293990333,
+                    1.10796823438546
+                ],
+                "size": 16.782808345010842
+            },
+            {
+                "center": [
+                    2.458845735722657,
+                    -0.5262590156332052
+                ],
+                "size": 11.837106258758132
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_2_image_6_thickness_2.pdf",
+        "depth": 2,
+        "center": [
+            -0.9861856265803093,
+            -4.486308078631102
+        ],
+        "initial_size": 8.156072107275111,
+        "reduction_factor": 0.75,
+        "line_thickness": 2,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    -0.9861856265803093,
+                    -4.486308078631102
+                ],
+                "size": 8.156072107275111
+            },
+            {
+                "center": [
+                    -1.6868436624994085,
+                    -5.232002733172158
+                ],
+                "size": 5.367054080456334
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_2_image_6_thickness_3.pdf",
+        "depth": 2,
+        "center": [
+            -0.9861856265803093,
+            -4.486308078631102
+        ],
+        "initial_size": 8.156072107275111,
+        "reduction_factor": 0.75,
+        "line_thickness": 3,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    -0.9861856265803093,
+                    -4.486308078631102
+                ],
+                "size": 8.156072107275111
+            },
+            {
+                "center": [
+                    -1.6868436624994085,
+                    -5.232002733172158
+                ],
+                "size": 5.367054080456334
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_2_image_6_thickness_4.pdf",
+        "depth": 2,
+        "center": [
+            -0.9861856265803093,
+            -4.486308078631102
+        ],
+        "initial_size": 8.156072107275111,
+        "reduction_factor": 0.75,
+        "line_thickness": 4,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    -0.9861856265803093,
+                    -4.486308078631102
+                ],
+                "size": 8.156072107275111
+            },
+            {
+                "center": [
+                    -1.6868436624994085,
+                    -5.232002733172158
+                ],
+                "size": 5.367054080456334
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_2_image_7_thickness_2.pdf",
+        "depth": 2,
+        "center": [
+            -0.28647748602085876,
+            -1.9641562999529985
+        ],
+        "initial_size": 9.352570048323049,
+        "reduction_factor": 0.75,
+        "line_thickness": 2,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    -0.28647748602085876,
+                    -1.9641562999529985
+                ],
+                "size": 9.352570048323049
+            },
+            {
+                "center": [
+                    -0.5985785906058908,
+                    -1.2423399969196316
+                ],
+                "size": 6.2644275362422865
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_2_image_7_thickness_3.pdf",
+        "depth": 2,
+        "center": [
+            -0.28647748602085876,
+            -1.9641562999529985
+        ],
+        "initial_size": 9.352570048323049,
+        "reduction_factor": 0.75,
+        "line_thickness": 3,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    -0.28647748602085876,
+                    -1.9641562999529985
+                ],
+                "size": 9.352570048323049
+            },
+            {
+                "center": [
+                    -0.5985785906058908,
+                    -1.2423399969196316
+                ],
+                "size": 6.2644275362422865
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_2_image_7_thickness_4.pdf",
+        "depth": 2,
+        "center": [
+            -0.28647748602085876,
+            -1.9641562999529985
+        ],
+        "initial_size": 9.352570048323049,
+        "reduction_factor": 0.75,
+        "line_thickness": 4,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    -0.28647748602085876,
+                    -1.9641562999529985
+                ],
+                "size": 9.352570048323049
+            },
+            {
+                "center": [
+                    -0.5985785906058908,
+                    -1.2423399969196316
+                ],
+                "size": 6.2644275362422865
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_2_image_8_thickness_2.pdf",
+        "depth": 2,
+        "center": [
+            3.928267604658437,
+            -2.339087583811752
+        ],
+        "initial_size": 9.07406472050088,
+        "reduction_factor": 0.75,
+        "line_thickness": 2,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    3.928267604658437,
+                    -2.339087583811752
+                ],
+                "size": 9.07406472050088
+            },
+            {
+                "center": [
+                    3.889509544645218,
+                    -3.363867549608042
+                ],
+                "size": 6.055548540375661
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_2_image_8_thickness_3.pdf",
+        "depth": 2,
+        "center": [
+            3.928267604658437,
+            -2.339087583811752
+        ],
+        "initial_size": 9.07406472050088,
+        "reduction_factor": 0.75,
+        "line_thickness": 3,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    3.928267604658437,
+                    -2.339087583811752
+                ],
+                "size": 9.07406472050088
+            },
+            {
+                "center": [
+                    3.889509544645218,
+                    -3.363867549608042
+                ],
+                "size": 6.055548540375661
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_2_image_8_thickness_4.pdf",
+        "depth": 2,
+        "center": [
+            3.928267604658437,
+            -2.339087583811752
+        ],
+        "initial_size": 9.07406472050088,
+        "reduction_factor": 0.75,
+        "line_thickness": 4,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    3.928267604658437,
+                    -2.339087583811752
+                ],
+                "size": 9.07406472050088
+            },
+            {
+                "center": [
+                    3.889509544645218,
+                    -3.363867549608042
+                ],
+                "size": 6.055548540375661
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_2_image_9_thickness_2.pdf",
+        "depth": 2,
+        "center": [
+            -4.975240493242503,
+            3.0402886685848145
+        ],
+        "initial_size": 14.213133888748457,
+        "reduction_factor": 0.75,
+        "line_thickness": 2,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    -4.975240493242503,
+                    3.0402886685848145
+                ],
+                "size": 14.213133888748457
+            },
+            {
+                "center": [
+                    -4.117581955126262,
+                    4.218144340579524
+                ],
+                "size": 9.909850416561342
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_2_image_9_thickness_3.pdf",
+        "depth": 2,
+        "center": [
+            -4.975240493242503,
+            3.0402886685848145
+        ],
+        "initial_size": 14.213133888748457,
+        "reduction_factor": 0.75,
+        "line_thickness": 3,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    -4.975240493242503,
+                    3.0402886685848145
+                ],
+                "size": 14.213133888748457
+            },
+            {
+                "center": [
+                    -4.117581955126262,
+                    4.218144340579524
+                ],
+                "size": 9.909850416561342
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_2_image_9_thickness_4.pdf",
+        "depth": 2,
+        "center": [
+            -4.975240493242503,
+            3.0402886685848145
+        ],
+        "initial_size": 14.213133888748457,
+        "reduction_factor": 0.75,
+        "line_thickness": 4,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    -4.975240493242503,
+                    3.0402886685848145
+                ],
+                "size": 14.213133888748457
+            },
+            {
+                "center": [
+                    -4.117581955126262,
+                    4.218144340579524
+                ],
+                "size": 9.909850416561342
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_2_image_10_thickness_2.pdf",
+        "depth": 2,
+        "center": [
+            -2.465974721065607,
+            -3.7207902169670826
+        ],
+        "initial_size": 15.874914729339213,
+        "reduction_factor": 0.75,
+        "line_thickness": 2,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    -2.465974721065607,
+                    -3.7207902169670826
+                ],
+                "size": 15.874914729339213
+            },
+            {
+                "center": [
+                    -0.731665051464109,
+                    -3.4246103584814462
+                ],
+                "size": 11.156186047004411
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_2_image_10_thickness_3.pdf",
+        "depth": 2,
+        "center": [
+            -2.465974721065607,
+            -3.7207902169670826
+        ],
+        "initial_size": 15.874914729339213,
+        "reduction_factor": 0.75,
+        "line_thickness": 3,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    -2.465974721065607,
+                    -3.7207902169670826
+                ],
+                "size": 15.874914729339213
+            },
+            {
+                "center": [
+                    -0.731665051464109,
+                    -3.4246103584814462
+                ],
+                "size": 11.156186047004411
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_2_image_10_thickness_4.pdf",
+        "depth": 2,
+        "center": [
+            -2.465974721065607,
+            -3.7207902169670826
+        ],
+        "initial_size": 15.874914729339213,
+        "reduction_factor": 0.75,
+        "line_thickness": 4,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    -2.465974721065607,
+                    -3.7207902169670826
+                ],
+                "size": 15.874914729339213
+            },
+            {
+                "center": [
+                    -0.731665051464109,
+                    -3.4246103584814462
+                ],
+                "size": 11.156186047004411
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_3_image_1_thickness_2.pdf",
+        "depth": 3,
+        "center": [
+            2.9914996970557803,
+            0.6902966722452533
+        ],
+        "initial_size": 12.907869933294018,
+        "reduction_factor": 0.75,
+        "line_thickness": 2,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    2.9914996970557803,
+                    0.6902966722452533
+                ],
+                "size": 12.907869933294018
+            },
+            {
+                "center": [
+                    3.9812591206424224,
+                    1.4229335826540432
+                ],
+                "size": 8.930902449970514
+            },
+            {
+                "center": [
+                    4.640577053862353,
+                    0.7394954437435559
+                ],
+                "size": 5.948176837477885
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_3_image_1_thickness_3.pdf",
+        "depth": 3,
+        "center": [
+            2.9914996970557803,
+            0.6902966722452533
+        ],
+        "initial_size": 12.907869933294018,
+        "reduction_factor": 0.75,
+        "line_thickness": 3,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    2.9914996970557803,
+                    0.6902966722452533
+                ],
+                "size": 12.907869933294018
+            },
+            {
+                "center": [
+                    3.9812591206424224,
+                    1.4229335826540432
+                ],
+                "size": 8.930902449970514
+            },
+            {
+                "center": [
+                    4.640577053862353,
+                    0.7394954437435559
+                ],
+                "size": 5.948176837477885
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_3_image_1_thickness_4.pdf",
+        "depth": 3,
+        "center": [
+            2.9914996970557803,
+            0.6902966722452533
+        ],
+        "initial_size": 12.907869933294018,
+        "reduction_factor": 0.75,
+        "line_thickness": 4,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    2.9914996970557803,
+                    0.6902966722452533
+                ],
+                "size": 12.907869933294018
+            },
+            {
+                "center": [
+                    3.9812591206424224,
+                    1.4229335826540432
+                ],
+                "size": 8.930902449970514
+            },
+            {
+                "center": [
+                    4.640577053862353,
+                    0.7394954437435559
+                ],
+                "size": 5.948176837477885
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_3_image_2_thickness_2.pdf",
+        "depth": 3,
+        "center": [
+            -4.535064197681828,
+            -2.8429890632465793
+        ],
+        "initial_size": 13.61842459819566,
+        "reduction_factor": 0.75,
+        "line_thickness": 2,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    -4.535064197681828,
+                    -2.8429890632465793
+                ],
+                "size": 13.61842459819566
+            },
+            {
+                "center": [
+                    -4.795772018813616,
+                    -4.238155944780592
+                ],
+                "size": 9.463818448646744
+            },
+            {
+                "center": [
+                    -3.760376261571003,
+                    -4.625684260334826
+                ],
+                "size": 6.347863836485058
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_3_image_2_thickness_3.pdf",
+        "depth": 3,
+        "center": [
+            -4.535064197681828,
+            -2.8429890632465793
+        ],
+        "initial_size": 13.61842459819566,
+        "reduction_factor": 0.75,
+        "line_thickness": 3,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    -4.535064197681828,
+                    -2.8429890632465793
+                ],
+                "size": 13.61842459819566
+            },
+            {
+                "center": [
+                    -4.795772018813616,
+                    -4.238155944780592
+                ],
+                "size": 9.463818448646744
+            },
+            {
+                "center": [
+                    -3.760376261571003,
+                    -4.625684260334826
+                ],
+                "size": 6.347863836485058
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_3_image_2_thickness_4.pdf",
+        "depth": 3,
+        "center": [
+            -4.535064197681828,
+            -2.8429890632465793
+        ],
+        "initial_size": 13.61842459819566,
+        "reduction_factor": 0.75,
+        "line_thickness": 4,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    -4.535064197681828,
+                    -2.8429890632465793
+                ],
+                "size": 13.61842459819566
+            },
+            {
+                "center": [
+                    -4.795772018813616,
+                    -4.238155944780592
+                ],
+                "size": 9.463818448646744
+            },
+            {
+                "center": [
+                    -3.760376261571003,
+                    -4.625684260334826
+                ],
+                "size": 6.347863836485058
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_3_image_3_thickness_2.pdf",
+        "depth": 3,
+        "center": [
+            3.0691622080076417,
+            2.029869044941984
+        ],
+        "initial_size": 14.802338931161595,
+        "reduction_factor": 0.75,
+        "line_thickness": 2,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    3.0691622080076417,
+                    2.029869044941984
+                ],
+                "size": 14.802338931161595
+            },
+            {
+                "center": [
+                    3.3824488171429485,
+                    3.440932681987052
+                ],
+                "size": 10.351754198371196
+            },
+            {
+                "center": [
+                    4.531971822234166,
+                    2.4897453144817225
+                ],
+                "size": 7.013815648778397
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_3_image_3_thickness_3.pdf",
+        "depth": 3,
+        "center": [
+            3.0691622080076417,
+            2.029869044941984
+        ],
+        "initial_size": 14.802338931161595,
+        "reduction_factor": 0.75,
+        "line_thickness": 3,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    3.0691622080076417,
+                    2.029869044941984
+                ],
+                "size": 14.802338931161595
+            },
+            {
+                "center": [
+                    3.3824488171429485,
+                    3.440932681987052
+                ],
+                "size": 10.351754198371196
+            },
+            {
+                "center": [
+                    4.531971822234166,
+                    2.4897453144817225
+                ],
+                "size": 7.013815648778397
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_3_image_3_thickness_4.pdf",
+        "depth": 3,
+        "center": [
+            3.0691622080076417,
+            2.029869044941984
+        ],
+        "initial_size": 14.802338931161595,
+        "reduction_factor": 0.75,
+        "line_thickness": 4,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    3.0691622080076417,
+                    2.029869044941984
+                ],
+                "size": 14.802338931161595
+            },
+            {
+                "center": [
+                    3.3824488171429485,
+                    3.440932681987052
+                ],
+                "size": 10.351754198371196
+            },
+            {
+                "center": [
+                    4.531971822234166,
+                    2.4897453144817225
+                ],
+                "size": 7.013815648778397
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_3_image_4_thickness_2.pdf",
+        "depth": 3,
+        "center": [
+            4.2528115695540585,
+            0.37456472663984197
+        ],
+        "initial_size": 14.759144778546615,
+        "reduction_factor": 0.75,
+        "line_thickness": 2,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    4.2528115695540585,
+                    0.37456472663984197
+                ],
+                "size": 14.759144778546615
+            },
+            {
+                "center": [
+                    5.070650723176524,
+                    2.094275190342305
+                ],
+                "size": 10.319358583909962
+            },
+            {
+                "center": [
+                    4.467640899125462,
+                    2.898313104727843
+                ],
+                "size": 6.989518937932472
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_3_image_4_thickness_3.pdf",
+        "depth": 3,
+        "center": [
+            4.2528115695540585,
+            0.37456472663984197
+        ],
+        "initial_size": 14.759144778546615,
+        "reduction_factor": 0.75,
+        "line_thickness": 3,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    4.2528115695540585,
+                    0.37456472663984197
+                ],
+                "size": 14.759144778546615
+            },
+            {
+                "center": [
+                    5.070650723176524,
+                    2.094275190342305
+                ],
+                "size": 10.319358583909962
+            },
+            {
+                "center": [
+                    4.467640899125462,
+                    2.898313104727843
+                ],
+                "size": 6.989518937932472
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_3_image_4_thickness_4.pdf",
+        "depth": 3,
+        "center": [
+            4.2528115695540585,
+            0.37456472663984197
+        ],
+        "initial_size": 14.759144778546615,
+        "reduction_factor": 0.75,
+        "line_thickness": 4,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    4.2528115695540585,
+                    0.37456472663984197
+                ],
+                "size": 14.759144778546615
+            },
+            {
+                "center": [
+                    5.070650723176524,
+                    2.094275190342305
+                ],
+                "size": 10.319358583909962
+            },
+            {
+                "center": [
+                    4.467640899125462,
+                    2.898313104727843
+                ],
+                "size": 6.989518937932472
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_3_image_5_thickness_2.pdf",
+        "depth": 3,
+        "center": [
+            4.705369735065098,
+            4.75534284593161
+        ],
+        "initial_size": 14.784465494039118,
+        "reduction_factor": 0.75,
+        "line_thickness": 2,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    4.705369735065098,
+                    4.75534284593161
+                ],
+                "size": 14.784465494039118
+            },
+            {
+                "center": [
+                    5.92361607554113,
+                    6.2474113680958405
+                ],
+                "size": 10.338349120529339
+            },
+            {
+                "center": [
+                    4.875866418675714,
+                    7.024502072086758
+                ],
+                "size": 7.003761840397004
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_3_image_5_thickness_3.pdf",
+        "depth": 3,
+        "center": [
+            4.705369735065098,
+            4.75534284593161
+        ],
+        "initial_size": 14.784465494039118,
+        "reduction_factor": 0.75,
+        "line_thickness": 3,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    4.705369735065098,
+                    4.75534284593161
+                ],
+                "size": 14.784465494039118
+            },
+            {
+                "center": [
+                    5.92361607554113,
+                    6.2474113680958405
+                ],
+                "size": 10.338349120529339
+            },
+            {
+                "center": [
+                    4.875866418675714,
+                    7.024502072086758
+                ],
+                "size": 7.003761840397004
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_3_image_5_thickness_4.pdf",
+        "depth": 3,
+        "center": [
+            4.705369735065098,
+            4.75534284593161
+        ],
+        "initial_size": 14.784465494039118,
+        "reduction_factor": 0.75,
+        "line_thickness": 4,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    4.705369735065098,
+                    4.75534284593161
+                ],
+                "size": 14.784465494039118
+            },
+            {
+                "center": [
+                    5.92361607554113,
+                    6.2474113680958405
+                ],
+                "size": 10.338349120529339
+            },
+            {
+                "center": [
+                    4.875866418675714,
+                    7.024502072086758
+                ],
+                "size": 7.003761840397004
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_3_image_6_thickness_2.pdf",
+        "depth": 3,
+        "center": [
+            2.19148180026464,
+            -3.933324524663452
+        ],
+        "initial_size": 11.324886127673544,
+        "reduction_factor": 0.75,
+        "line_thickness": 2,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    2.19148180026464,
+                    -3.933324524663452
+                ],
+                "size": 11.324886127673544
+            },
+            {
+                "center": [
+                    2.4881765594513956,
+                    -4.217877647720752
+                ],
+                "size": 7.743664595755158
+            },
+            {
+                "center": [
+                    2.8856812220911645,
+                    -3.85358287578128
+                ],
+                "size": 5.057748446816369
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_3_image_6_thickness_3.pdf",
+        "depth": 3,
+        "center": [
+            2.19148180026464,
+            -3.933324524663452
+        ],
+        "initial_size": 11.324886127673544,
+        "reduction_factor": 0.75,
+        "line_thickness": 3,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    2.19148180026464,
+                    -3.933324524663452
+                ],
+                "size": 11.324886127673544
+            },
+            {
+                "center": [
+                    2.4881765594513956,
+                    -4.217877647720752
+                ],
+                "size": 7.743664595755158
+            },
+            {
+                "center": [
+                    2.8856812220911645,
+                    -3.85358287578128
+                ],
+                "size": 5.057748446816369
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_3_image_6_thickness_4.pdf",
+        "depth": 3,
+        "center": [
+            2.19148180026464,
+            -3.933324524663452
+        ],
+        "initial_size": 11.324886127673544,
+        "reduction_factor": 0.75,
+        "line_thickness": 4,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    2.19148180026464,
+                    -3.933324524663452
+                ],
+                "size": 11.324886127673544
+            },
+            {
+                "center": [
+                    2.4881765594513956,
+                    -4.217877647720752
+                ],
+                "size": 7.743664595755158
+            },
+            {
+                "center": [
+                    2.8856812220911645,
+                    -3.85358287578128
+                ],
+                "size": 5.057748446816369
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_3_image_7_thickness_2.pdf",
+        "depth": 3,
+        "center": [
+            2.7078578425117996,
+            3.631701861403055
+        ],
+        "initial_size": 15.005167520657775,
+        "reduction_factor": 0.75,
+        "line_thickness": 2,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    2.7078578425117996,
+                    3.631701861403055
+                ],
+                "size": 15.005167520657775
+            },
+            {
+                "center": [
+                    1.1211435822240425,
+                    3.0654311629386024
+                ],
+                "size": 10.50387564049333
+            },
+            {
+                "center": [
+                    1.5083667858379846,
+                    2.0058945543390285
+                ],
+                "size": 7.127906730369998
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_3_image_7_thickness_3.pdf",
+        "depth": 3,
+        "center": [
+            2.7078578425117996,
+            3.631701861403055
+        ],
+        "initial_size": 15.005167520657775,
+        "reduction_factor": 0.75,
+        "line_thickness": 3,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    2.7078578425117996,
+                    3.631701861403055
+                ],
+                "size": 15.005167520657775
+            },
+            {
+                "center": [
+                    1.1211435822240425,
+                    3.0654311629386024
+                ],
+                "size": 10.50387564049333
+            },
+            {
+                "center": [
+                    1.5083667858379846,
+                    2.0058945543390285
+                ],
+                "size": 7.127906730369998
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_3_image_7_thickness_4.pdf",
+        "depth": 3,
+        "center": [
+            2.7078578425117996,
+            3.631701861403055
+        ],
+        "initial_size": 15.005167520657775,
+        "reduction_factor": 0.75,
+        "line_thickness": 4,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    2.7078578425117996,
+                    3.631701861403055
+                ],
+                "size": 15.005167520657775
+            },
+            {
+                "center": [
+                    1.1211435822240425,
+                    3.0654311629386024
+                ],
+                "size": 10.50387564049333
+            },
+            {
+                "center": [
+                    1.5083667858379846,
+                    2.0058945543390285
+                ],
+                "size": 7.127906730369998
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_3_image_8_thickness_2.pdf",
+        "depth": 3,
+        "center": [
+            -2.561010020058924,
+            4.883115514374174
+        ],
+        "initial_size": 13.63091540399391,
+        "reduction_factor": 0.75,
+        "line_thickness": 2,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    -2.561010020058924,
+                    4.883115514374174
+                ],
+                "size": 13.63091540399391
+            },
+            {
+                "center": [
+                    -1.9472203807065944,
+                    6.56830455543175
+                ],
+                "size": 9.473186552995433
+            },
+            {
+                "center": [
+                    -2.8130581219004718,
+                    5.849033844815947
+                ],
+                "size": 6.3548899147465745
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_3_image_8_thickness_3.pdf",
+        "depth": 3,
+        "center": [
+            -2.561010020058924,
+            4.883115514374174
+        ],
+        "initial_size": 13.63091540399391,
+        "reduction_factor": 0.75,
+        "line_thickness": 3,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    -2.561010020058924,
+                    4.883115514374174
+                ],
+                "size": 13.63091540399391
+            },
+            {
+                "center": [
+                    -1.9472203807065944,
+                    6.56830455543175
+                ],
+                "size": 9.473186552995433
+            },
+            {
+                "center": [
+                    -2.8130581219004718,
+                    5.849033844815947
+                ],
+                "size": 6.3548899147465745
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_3_image_8_thickness_4.pdf",
+        "depth": 3,
+        "center": [
+            -2.561010020058924,
+            4.883115514374174
+        ],
+        "initial_size": 13.63091540399391,
+        "reduction_factor": 0.75,
+        "line_thickness": 4,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    -2.561010020058924,
+                    4.883115514374174
+                ],
+                "size": 13.63091540399391
+            },
+            {
+                "center": [
+                    -1.9472203807065944,
+                    6.56830455543175
+                ],
+                "size": 9.473186552995433
+            },
+            {
+                "center": [
+                    -2.8130581219004718,
+                    5.849033844815947
+                ],
+                "size": 6.3548899147465745
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_3_image_9_thickness_2.pdf",
+        "depth": 3,
+        "center": [
+            -1.6011532783681903,
+            -0.1586077021189105
+        ],
+        "initial_size": 11.446712422148416,
+        "reduction_factor": 0.75,
+        "line_thickness": 2,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    -1.6011532783681903,
+                    -0.1586077021189105
+                ],
+                "size": 11.446712422148416
+            },
+            {
+                "center": [
+                    -1.7156597132856775,
+                    -1.2894014628030002
+                ],
+                "size": 7.835034316611312
+            },
+            {
+                "center": [
+                    -2.025373352129916,
+                    -1.234810694687024
+                ],
+                "size": 5.126275737458483
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_3_image_9_thickness_3.pdf",
+        "depth": 3,
+        "center": [
+            -1.6011532783681903,
+            -0.1586077021189105
+        ],
+        "initial_size": 11.446712422148416,
+        "reduction_factor": 0.75,
+        "line_thickness": 3,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    -1.6011532783681903,
+                    -0.1586077021189105
+                ],
+                "size": 11.446712422148416
+            },
+            {
+                "center": [
+                    -1.7156597132856775,
+                    -1.2894014628030002
+                ],
+                "size": 7.835034316611312
+            },
+            {
+                "center": [
+                    -2.025373352129916,
+                    -1.234810694687024
+                ],
+                "size": 5.126275737458483
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_3_image_9_thickness_4.pdf",
+        "depth": 3,
+        "center": [
+            -1.6011532783681903,
+            -0.1586077021189105
+        ],
+        "initial_size": 11.446712422148416,
+        "reduction_factor": 0.75,
+        "line_thickness": 4,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    -1.6011532783681903,
+                    -0.1586077021189105
+                ],
+                "size": 11.446712422148416
+            },
+            {
+                "center": [
+                    -1.7156597132856775,
+                    -1.2894014628030002
+                ],
+                "size": 7.835034316611312
+            },
+            {
+                "center": [
+                    -2.025373352129916,
+                    -1.234810694687024
+                ],
+                "size": 5.126275737458483
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_3_image_10_thickness_2.pdf",
+        "depth": 3,
+        "center": [
+            -1.3776902327587304,
+            2.877985513340816
+        ],
+        "initial_size": 11.68762954911741,
+        "reduction_factor": 0.75,
+        "line_thickness": 2,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    -1.3776902327587304,
+                    2.877985513340816
+                ],
+                "size": 11.68762954911741
+            },
+            {
+                "center": [
+                    -1.2652398036605768,
+                    3.57475765755871
+                ],
+                "size": 8.015722161838058
+            },
+            {
+                "center": [
+                    -1.6602165339083879,
+                    2.821873799302405
+                ],
+                "size": 5.261791621378544
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_3_image_10_thickness_3.pdf",
+        "depth": 3,
+        "center": [
+            -1.3776902327587304,
+            2.877985513340816
+        ],
+        "initial_size": 11.68762954911741,
+        "reduction_factor": 0.75,
+        "line_thickness": 3,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    -1.3776902327587304,
+                    2.877985513340816
+                ],
+                "size": 11.68762954911741
+            },
+            {
+                "center": [
+                    -1.2652398036605768,
+                    3.57475765755871
+                ],
+                "size": 8.015722161838058
+            },
+            {
+                "center": [
+                    -1.6602165339083879,
+                    2.821873799302405
+                ],
+                "size": 5.261791621378544
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_3_image_10_thickness_4.pdf",
+        "depth": 3,
+        "center": [
+            -1.3776902327587304,
+            2.877985513340816
+        ],
+        "initial_size": 11.68762954911741,
+        "reduction_factor": 0.75,
+        "line_thickness": 4,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    -1.3776902327587304,
+                    2.877985513340816
+                ],
+                "size": 11.68762954911741
+            },
+            {
+                "center": [
+                    -1.2652398036605768,
+                    3.57475765755871
+                ],
+                "size": 8.015722161838058
+            },
+            {
+                "center": [
+                    -1.6602165339083879,
+                    2.821873799302405
+                ],
+                "size": 5.261791621378544
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_4_image_1_thickness_2.pdf",
+        "depth": 4,
+        "center": [
+            2.339297927162307,
+            0.48700710822919646
+        ],
+        "initial_size": 13.610136742667914,
+        "reduction_factor": 0.75,
+        "line_thickness": 2,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    2.339297927162307,
+                    0.48700710822919646
+                ],
+                "size": 13.610136742667914
+            },
+            {
+                "center": [
+                    1.668875106216022,
+                    1.6777337101133218
+                ],
+                "size": 9.457602557000936
+            },
+            {
+                "center": [
+                    2.3132085866045315,
+                    1.1443486777643737
+                ],
+                "size": 6.343201917750702
+            },
+            {
+                "center": [
+                    1.6044657129625672,
+                    1.608263285007267
+                ],
+                "size": 4.0074014383130265
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_4_image_1_thickness_3.pdf",
+        "depth": 4,
+        "center": [
+            2.339297927162307,
+            0.48700710822919646
+        ],
+        "initial_size": 13.610136742667914,
+        "reduction_factor": 0.75,
+        "line_thickness": 3,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    2.339297927162307,
+                    0.48700710822919646
+                ],
+                "size": 13.610136742667914
+            },
+            {
+                "center": [
+                    1.668875106216022,
+                    1.6777337101133218
+                ],
+                "size": 9.457602557000936
+            },
+            {
+                "center": [
+                    2.3132085866045315,
+                    1.1443486777643737
+                ],
+                "size": 6.343201917750702
+            },
+            {
+                "center": [
+                    1.6044657129625672,
+                    1.608263285007267
+                ],
+                "size": 4.0074014383130265
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_4_image_1_thickness_4.pdf",
+        "depth": 4,
+        "center": [
+            2.339297927162307,
+            0.48700710822919646
+        ],
+        "initial_size": 13.610136742667914,
+        "reduction_factor": 0.75,
+        "line_thickness": 4,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    2.339297927162307,
+                    0.48700710822919646
+                ],
+                "size": 13.610136742667914
+            },
+            {
+                "center": [
+                    1.668875106216022,
+                    1.6777337101133218
+                ],
+                "size": 9.457602557000936
+            },
+            {
+                "center": [
+                    2.3132085866045315,
+                    1.1443486777643737
+                ],
+                "size": 6.343201917750702
+            },
+            {
+                "center": [
+                    1.6044657129625672,
+                    1.608263285007267
+                ],
+                "size": 4.0074014383130265
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_4_image_2_thickness_2.pdf",
+        "depth": 4,
+        "center": [
+            -3.653753685817509,
+            0.5293281487900696
+        ],
+        "initial_size": 12.247974305738476,
+        "reduction_factor": 0.75,
+        "line_thickness": 2,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    -3.653753685817509,
+                    0.5293281487900696
+                ],
+                "size": 12.247974305738476
+            },
+            {
+                "center": [
+                    -5.038940923016426,
+                    1.9005100554725605
+                ],
+                "size": 8.435980729303857
+            },
+            {
+                "center": [
+                    -4.472537480166328,
+                    2.7922655615532674
+                ],
+                "size": 5.576985546977893
+            },
+            {
+                "center": [
+                    -4.713910433158015,
+                    2.7216701407520616
+                ],
+                "size": 3.432739160233419
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_4_image_2_thickness_3.pdf",
+        "depth": 4,
+        "center": [
+            -3.653753685817509,
+            0.5293281487900696
+        ],
+        "initial_size": 12.247974305738476,
+        "reduction_factor": 0.75,
+        "line_thickness": 3,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    -3.653753685817509,
+                    0.5293281487900696
+                ],
+                "size": 12.247974305738476
+            },
+            {
+                "center": [
+                    -5.038940923016426,
+                    1.9005100554725605
+                ],
+                "size": 8.435980729303857
+            },
+            {
+                "center": [
+                    -4.472537480166328,
+                    2.7922655615532674
+                ],
+                "size": 5.576985546977893
+            },
+            {
+                "center": [
+                    -4.713910433158015,
+                    2.7216701407520616
+                ],
+                "size": 3.432739160233419
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_4_image_2_thickness_4.pdf",
+        "depth": 4,
+        "center": [
+            -3.653753685817509,
+            0.5293281487900696
+        ],
+        "initial_size": 12.247974305738476,
+        "reduction_factor": 0.75,
+        "line_thickness": 4,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    -3.653753685817509,
+                    0.5293281487900696
+                ],
+                "size": 12.247974305738476
+            },
+            {
+                "center": [
+                    -5.038940923016426,
+                    1.9005100554725605
+                ],
+                "size": 8.435980729303857
+            },
+            {
+                "center": [
+                    -4.472537480166328,
+                    2.7922655615532674
+                ],
+                "size": 5.576985546977893
+            },
+            {
+                "center": [
+                    -4.713910433158015,
+                    2.7216701407520616
+                ],
+                "size": 3.432739160233419
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_4_image_3_thickness_2.pdf",
+        "depth": 4,
+        "center": [
+            -1.1849647004093002,
+            -2.5060234154122085
+        ],
+        "initial_size": 16.754685230991697,
+        "reduction_factor": 0.75,
+        "line_thickness": 2,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    -1.1849647004093002,
+                    -2.5060234154122085
+                ],
+                "size": 16.754685230991697
+            },
+            {
+                "center": [
+                    0.42800660603388296,
+                    -0.8566065887448038
+                ],
+                "size": 11.816013923243773
+            },
+            {
+                "center": [
+                    1.5857749041915978,
+                    -0.5623387251645562
+                ],
+                "size": 8.11201044243283
+            },
+            {
+                "center": [
+                    1.538025060998779,
+                    -0.6471014666918958
+                ],
+                "size": 5.334007831824622
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_4_image_3_thickness_3.pdf",
+        "depth": 4,
+        "center": [
+            -1.1849647004093002,
+            -2.5060234154122085
+        ],
+        "initial_size": 16.754685230991697,
+        "reduction_factor": 0.75,
+        "line_thickness": 3,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    -1.1849647004093002,
+                    -2.5060234154122085
+                ],
+                "size": 16.754685230991697
+            },
+            {
+                "center": [
+                    0.42800660603388296,
+                    -0.8566065887448038
+                ],
+                "size": 11.816013923243773
+            },
+            {
+                "center": [
+                    1.5857749041915978,
+                    -0.5623387251645562
+                ],
+                "size": 8.11201044243283
+            },
+            {
+                "center": [
+                    1.538025060998779,
+                    -0.6471014666918958
+                ],
+                "size": 5.334007831824622
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_4_image_3_thickness_4.pdf",
+        "depth": 4,
+        "center": [
+            -1.1849647004093002,
+            -2.5060234154122085
+        ],
+        "initial_size": 16.754685230991697,
+        "reduction_factor": 0.75,
+        "line_thickness": 4,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    -1.1849647004093002,
+                    -2.5060234154122085
+                ],
+                "size": 16.754685230991697
+            },
+            {
+                "center": [
+                    0.42800660603388296,
+                    -0.8566065887448038
+                ],
+                "size": 11.816013923243773
+            },
+            {
+                "center": [
+                    1.5857749041915978,
+                    -0.5623387251645562
+                ],
+                "size": 8.11201044243283
+            },
+            {
+                "center": [
+                    1.538025060998779,
+                    -0.6471014666918958
+                ],
+                "size": 5.334007831824622
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_4_image_4_thickness_2.pdf",
+        "depth": 4,
+        "center": [
+            -4.670296581949377,
+            2.8040014161931612
+        ],
+        "initial_size": 12.938222626154445,
+        "reduction_factor": 0.75,
+        "line_thickness": 2,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    -4.670296581949377,
+                    2.8040014161931612
+                ],
+                "size": 12.938222626154445
+            },
+            {
+                "center": [
+                    -5.269641610010883,
+                    4.269256821272463
+                ],
+                "size": 8.953666969615835
+            },
+            {
+                "center": [
+                    -5.938182520865068,
+                    5.168469524751945
+                ],
+                "size": 5.965250227211876
+            },
+            {
+                "center": [
+                    -6.569698849880005,
+                    5.3385903041001646
+                ],
+                "size": 3.7239376704089073
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_4_image_4_thickness_3.pdf",
+        "depth": 4,
+        "center": [
+            -4.670296581949377,
+            2.8040014161931612
+        ],
+        "initial_size": 12.938222626154445,
+        "reduction_factor": 0.75,
+        "line_thickness": 3,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    -4.670296581949377,
+                    2.8040014161931612
+                ],
+                "size": 12.938222626154445
+            },
+            {
+                "center": [
+                    -5.269641610010883,
+                    4.269256821272463
+                ],
+                "size": 8.953666969615835
+            },
+            {
+                "center": [
+                    -5.938182520865068,
+                    5.168469524751945
+                ],
+                "size": 5.965250227211876
+            },
+            {
+                "center": [
+                    -6.569698849880005,
+                    5.3385903041001646
+                ],
+                "size": 3.7239376704089073
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_4_image_4_thickness_4.pdf",
+        "depth": 4,
+        "center": [
+            -4.670296581949377,
+            2.8040014161931612
+        ],
+        "initial_size": 12.938222626154445,
+        "reduction_factor": 0.75,
+        "line_thickness": 4,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    -4.670296581949377,
+                    2.8040014161931612
+                ],
+                "size": 12.938222626154445
+            },
+            {
+                "center": [
+                    -5.269641610010883,
+                    4.269256821272463
+                ],
+                "size": 8.953666969615835
+            },
+            {
+                "center": [
+                    -5.938182520865068,
+                    5.168469524751945
+                ],
+                "size": 5.965250227211876
+            },
+            {
+                "center": [
+                    -6.569698849880005,
+                    5.3385903041001646
+                ],
+                "size": 3.7239376704089073
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_4_image_5_thickness_2.pdf",
+        "depth": 4,
+        "center": [
+            0.9548219044595028,
+            -4.67788661879044
+        ],
+        "initial_size": 11.69859377885744,
+        "reduction_factor": 0.75,
+        "line_thickness": 2,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    0.9548219044595028,
+                    -4.67788661879044
+                ],
+                "size": 11.69859377885744
+            },
+            {
+                "center": [
+                    2.302619809447743,
+                    -5.5607088189358285
+                ],
+                "size": 8.023945334143079
+            },
+            {
+                "center": [
+                    1.4783989055416793,
+                    -5.181453782517553
+                ],
+                "size": 5.267959000607309
+            },
+            {
+                "center": [
+                    1.3959997310167034,
+                    -4.995849707135164
+                ],
+                "size": 3.200969250455482
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_4_image_5_thickness_3.pdf",
+        "depth": 4,
+        "center": [
+            0.9548219044595028,
+            -4.67788661879044
+        ],
+        "initial_size": 11.69859377885744,
+        "reduction_factor": 0.75,
+        "line_thickness": 3,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    0.9548219044595028,
+                    -4.67788661879044
+                ],
+                "size": 11.69859377885744
+            },
+            {
+                "center": [
+                    2.302619809447743,
+                    -5.5607088189358285
+                ],
+                "size": 8.023945334143079
+            },
+            {
+                "center": [
+                    1.4783989055416793,
+                    -5.181453782517553
+                ],
+                "size": 5.267959000607309
+            },
+            {
+                "center": [
+                    1.3959997310167034,
+                    -4.995849707135164
+                ],
+                "size": 3.200969250455482
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_4_image_5_thickness_4.pdf",
+        "depth": 4,
+        "center": [
+            0.9548219044595028,
+            -4.67788661879044
+        ],
+        "initial_size": 11.69859377885744,
+        "reduction_factor": 0.75,
+        "line_thickness": 4,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    0.9548219044595028,
+                    -4.67788661879044
+                ],
+                "size": 11.69859377885744
+            },
+            {
+                "center": [
+                    2.302619809447743,
+                    -5.5607088189358285
+                ],
+                "size": 8.023945334143079
+            },
+            {
+                "center": [
+                    1.4783989055416793,
+                    -5.181453782517553
+                ],
+                "size": 5.267959000607309
+            },
+            {
+                "center": [
+                    1.3959997310167034,
+                    -4.995849707135164
+                ],
+                "size": 3.200969250455482
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_4_image_6_thickness_2.pdf",
+        "depth": 4,
+        "center": [
+            3.2564976695374277,
+            -1.4409081252502687
+        ],
+        "initial_size": 10.508740903692704,
+        "reduction_factor": 0.75,
+        "line_thickness": 2,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    3.2564976695374277,
+                    -1.4409081252502687
+                ],
+                "size": 10.508740903692704
+            },
+            {
+                "center": [
+                    3.5722743104496066,
+                    -1.0605408714523614
+                ],
+                "size": 7.131555677769528
+            },
+            {
+                "center": [
+                    4.279025491634394,
+                    -1.256629533418415
+                ],
+                "size": 4.5986667583271466
+            },
+            {
+                "center": [
+                    4.7668990801877005,
+                    -1.5202021354457704
+                ],
+                "size": 2.69900006874536
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_4_image_6_thickness_3.pdf",
+        "depth": 4,
+        "center": [
+            3.2564976695374277,
+            -1.4409081252502687
+        ],
+        "initial_size": 10.508740903692704,
+        "reduction_factor": 0.75,
+        "line_thickness": 3,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    3.2564976695374277,
+                    -1.4409081252502687
+                ],
+                "size": 10.508740903692704
+            },
+            {
+                "center": [
+                    3.5722743104496066,
+                    -1.0605408714523614
+                ],
+                "size": 7.131555677769528
+            },
+            {
+                "center": [
+                    4.279025491634394,
+                    -1.256629533418415
+                ],
+                "size": 4.5986667583271466
+            },
+            {
+                "center": [
+                    4.7668990801877005,
+                    -1.5202021354457704
+                ],
+                "size": 2.69900006874536
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_4_image_6_thickness_4.pdf",
+        "depth": 4,
+        "center": [
+            3.2564976695374277,
+            -1.4409081252502687
+        ],
+        "initial_size": 10.508740903692704,
+        "reduction_factor": 0.75,
+        "line_thickness": 4,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    3.2564976695374277,
+                    -1.4409081252502687
+                ],
+                "size": 10.508740903692704
+            },
+            {
+                "center": [
+                    3.5722743104496066,
+                    -1.0605408714523614
+                ],
+                "size": 7.131555677769528
+            },
+            {
+                "center": [
+                    4.279025491634394,
+                    -1.256629533418415
+                ],
+                "size": 4.5986667583271466
+            },
+            {
+                "center": [
+                    4.7668990801877005,
+                    -1.5202021354457704
+                ],
+                "size": 2.69900006874536
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_4_image_7_thickness_2.pdf",
+        "depth": 4,
+        "center": [
+            0.9373048544062375,
+            1.719152698237167
+        ],
+        "initial_size": 15.63883143792653,
+        "reduction_factor": 0.75,
+        "line_thickness": 2,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    0.9373048544062375,
+                    1.719152698237167
+                ],
+                "size": 15.63883143792653
+            },
+            {
+                "center": [
+                    2.2909985353298254,
+                    3.0356423551891787
+                ],
+                "size": 10.979123578444899
+            },
+            {
+                "center": [
+                    1.5878442290538786,
+                    2.4948735567545435
+                ],
+                "size": 7.484342683833674
+            },
+            {
+                "center": [
+                    1.0599340119737055,
+                    1.656643081278482
+                ],
+                "size": 4.8632570128752555
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_4_image_7_thickness_3.pdf",
+        "depth": 4,
+        "center": [
+            0.9373048544062375,
+            1.719152698237167
+        ],
+        "initial_size": 15.63883143792653,
+        "reduction_factor": 0.75,
+        "line_thickness": 3,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    0.9373048544062375,
+                    1.719152698237167
+                ],
+                "size": 15.63883143792653
+            },
+            {
+                "center": [
+                    2.2909985353298254,
+                    3.0356423551891787
+                ],
+                "size": 10.979123578444899
+            },
+            {
+                "center": [
+                    1.5878442290538786,
+                    2.4948735567545435
+                ],
+                "size": 7.484342683833674
+            },
+            {
+                "center": [
+                    1.0599340119737055,
+                    1.656643081278482
+                ],
+                "size": 4.8632570128752555
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_4_image_7_thickness_4.pdf",
+        "depth": 4,
+        "center": [
+            0.9373048544062375,
+            1.719152698237167
+        ],
+        "initial_size": 15.63883143792653,
+        "reduction_factor": 0.75,
+        "line_thickness": 4,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    0.9373048544062375,
+                    1.719152698237167
+                ],
+                "size": 15.63883143792653
+            },
+            {
+                "center": [
+                    2.2909985353298254,
+                    3.0356423551891787
+                ],
+                "size": 10.979123578444899
+            },
+            {
+                "center": [
+                    1.5878442290538786,
+                    2.4948735567545435
+                ],
+                "size": 7.484342683833674
+            },
+            {
+                "center": [
+                    1.0599340119737055,
+                    1.656643081278482
+                ],
+                "size": 4.8632570128752555
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_4_image_8_thickness_2.pdf",
+        "depth": 4,
+        "center": [
+            -4.631742860294913,
+            -2.5557193327474326
+        ],
+        "initial_size": 15.547100281032836,
+        "reduction_factor": 0.75,
+        "line_thickness": 2,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    -4.631742860294913,
+                    -2.5557193327474326
+                ],
+                "size": 15.547100281032836
+            },
+            {
+                "center": [
+                    -4.452825946989902,
+                    -0.8584550311348358
+                ],
+                "size": 10.910325210774626
+            },
+            {
+                "center": [
+                    -5.649740299299975,
+                    -0.9211504806983619
+                ],
+                "size": 7.432743908080969
+            },
+            {
+                "center": [
+                    -6.5451784584750365,
+                    -0.7250709814235359
+                ],
+                "size": 4.824557931060727
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_4_image_8_thickness_3.pdf",
+        "depth": 4,
+        "center": [
+            -4.631742860294913,
+            -2.5557193327474326
+        ],
+        "initial_size": 15.547100281032836,
+        "reduction_factor": 0.75,
+        "line_thickness": 3,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    -4.631742860294913,
+                    -2.5557193327474326
+                ],
+                "size": 15.547100281032836
+            },
+            {
+                "center": [
+                    -4.452825946989902,
+                    -0.8584550311348358
+                ],
+                "size": 10.910325210774626
+            },
+            {
+                "center": [
+                    -5.649740299299975,
+                    -0.9211504806983619
+                ],
+                "size": 7.432743908080969
+            },
+            {
+                "center": [
+                    -6.5451784584750365,
+                    -0.7250709814235359
+                ],
+                "size": 4.824557931060727
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_4_image_8_thickness_4.pdf",
+        "depth": 4,
+        "center": [
+            -4.631742860294913,
+            -2.5557193327474326
+        ],
+        "initial_size": 15.547100281032836,
+        "reduction_factor": 0.75,
+        "line_thickness": 4,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    -4.631742860294913,
+                    -2.5557193327474326
+                ],
+                "size": 15.547100281032836
+            },
+            {
+                "center": [
+                    -4.452825946989902,
+                    -0.8584550311348358
+                ],
+                "size": 10.910325210774626
+            },
+            {
+                "center": [
+                    -5.649740299299975,
+                    -0.9211504806983619
+                ],
+                "size": 7.432743908080969
+            },
+            {
+                "center": [
+                    -6.5451784584750365,
+                    -0.7250709814235359
+                ],
+                "size": 4.824557931060727
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_4_image_9_thickness_2.pdf",
+        "depth": 4,
+        "center": [
+            -0.07515177851108579,
+            3.974673593355204
+        ],
+        "initial_size": 13.696174334438224,
+        "reduction_factor": 0.75,
+        "line_thickness": 2,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    -0.07515177851108579,
+                    3.974673593355204
+                ],
+                "size": 13.696174334438224
+            },
+            {
+                "center": [
+                    0.7241866172244755,
+                    5.331981134733253
+                ],
+                "size": 9.522130750828667
+            },
+            {
+                "center": [
+                    1.6449304662290514,
+                    4.693293893109621
+                ],
+                "size": 6.391598063121501
+            },
+            {
+                "center": [
+                    1.983242702588495,
+                    4.422654340126505
+                ],
+                "size": 4.043698547341126
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_4_image_9_thickness_3.pdf",
+        "depth": 4,
+        "center": [
+            -0.07515177851108579,
+            3.974673593355204
+        ],
+        "initial_size": 13.696174334438224,
+        "reduction_factor": 0.75,
+        "line_thickness": 3,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    -0.07515177851108579,
+                    3.974673593355204
+                ],
+                "size": 13.696174334438224
+            },
+            {
+                "center": [
+                    0.7241866172244755,
+                    5.331981134733253
+                ],
+                "size": 9.522130750828667
+            },
+            {
+                "center": [
+                    1.6449304662290514,
+                    4.693293893109621
+                ],
+                "size": 6.391598063121501
+            },
+            {
+                "center": [
+                    1.983242702588495,
+                    4.422654340126505
+                ],
+                "size": 4.043698547341126
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_4_image_9_thickness_4.pdf",
+        "depth": 4,
+        "center": [
+            -0.07515177851108579,
+            3.974673593355204
+        ],
+        "initial_size": 13.696174334438224,
+        "reduction_factor": 0.75,
+        "line_thickness": 4,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    -0.07515177851108579,
+                    3.974673593355204
+                ],
+                "size": 13.696174334438224
+            },
+            {
+                "center": [
+                    0.7241866172244755,
+                    5.331981134733253
+                ],
+                "size": 9.522130750828667
+            },
+            {
+                "center": [
+                    1.6449304662290514,
+                    4.693293893109621
+                ],
+                "size": 6.391598063121501
+            },
+            {
+                "center": [
+                    1.983242702588495,
+                    4.422654340126505
+                ],
+                "size": 4.043698547341126
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_4_image_10_thickness_2.pdf",
+        "depth": 4,
+        "center": [
+            -1.047101104071019,
+            2.0359581249296435
+        ],
+        "initial_size": 17.27166311567275,
+        "reduction_factor": 0.75,
+        "line_thickness": 2,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    -1.047101104071019,
+                    2.0359581249296435
+                ],
+                "size": 17.27166311567275
+            },
+            {
+                "center": [
+                    -0.4851110769747886,
+                    0.5877482944963897
+                ],
+                "size": 12.203747336754564
+            },
+            {
+                "center": [
+                    -1.5550950308648837,
+                    -0.03519075159576246
+                ],
+                "size": 8.402810502565924
+            },
+            {
+                "center": [
+                    -1.1815550057559654,
+                    -0.7972014791373595
+                ],
+                "size": 5.552107876924443
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_4_image_10_thickness_3.pdf",
+        "depth": 4,
+        "center": [
+            -1.047101104071019,
+            2.0359581249296435
+        ],
+        "initial_size": 17.27166311567275,
+        "reduction_factor": 0.75,
+        "line_thickness": 3,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    -1.047101104071019,
+                    2.0359581249296435
+                ],
+                "size": 17.27166311567275
+            },
+            {
+                "center": [
+                    -0.4851110769747886,
+                    0.5877482944963897
+                ],
+                "size": 12.203747336754564
+            },
+            {
+                "center": [
+                    -1.5550950308648837,
+                    -0.03519075159576246
+                ],
+                "size": 8.402810502565924
+            },
+            {
+                "center": [
+                    -1.1815550057559654,
+                    -0.7972014791373595
+                ],
+                "size": 5.552107876924443
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_4_image_10_thickness_4.pdf",
+        "depth": 4,
+        "center": [
+            -1.047101104071019,
+            2.0359581249296435
+        ],
+        "initial_size": 17.27166311567275,
+        "reduction_factor": 0.75,
+        "line_thickness": 4,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    -1.047101104071019,
+                    2.0359581249296435
+                ],
+                "size": 17.27166311567275
+            },
+            {
+                "center": [
+                    -0.4851110769747886,
+                    0.5877482944963897
+                ],
+                "size": 12.203747336754564
+            },
+            {
+                "center": [
+                    -1.5550950308648837,
+                    -0.03519075159576246
+                ],
+                "size": 8.402810502565924
+            },
+            {
+                "center": [
+                    -1.1815550057559654,
+                    -0.7972014791373595
+                ],
+                "size": 5.552107876924443
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_5_image_1_thickness_2.pdf",
+        "depth": 5,
+        "center": [
+            3.4151009104271353,
+            0.38357716020776245
+        ],
+        "initial_size": 10.722405697022548,
+        "reduction_factor": 0.75,
+        "line_thickness": 2,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    3.4151009104271353,
+                    0.38357716020776245
+                ],
+                "size": 10.722405697022548
+            },
+            {
+                "center": [
+                    4.012100118661502,
+                    0.7872533835890168
+                ],
+                "size": 7.29180427276691
+            },
+            {
+                "center": [
+                    4.656812187337724,
+                    1.5377929646450872
+                ],
+                "size": 4.718853204575183
+            },
+            {
+                "center": [
+                    4.208082807294345,
+                    1.2866447004776138
+                ],
+                "size": 2.789139903431387
+            },
+            {
+                "center": [
+                    4.199657154050313,
+                    1.172296974741121
+                ],
+                "size": 1.3418549275735403
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_5_image_1_thickness_3.pdf",
+        "depth": 5,
+        "center": [
+            3.4151009104271353,
+            0.38357716020776245
+        ],
+        "initial_size": 10.722405697022548,
+        "reduction_factor": 0.75,
+        "line_thickness": 3,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    3.4151009104271353,
+                    0.38357716020776245
+                ],
+                "size": 10.722405697022548
+            },
+            {
+                "center": [
+                    4.012100118661502,
+                    0.7872533835890168
+                ],
+                "size": 7.29180427276691
+            },
+            {
+                "center": [
+                    4.656812187337724,
+                    1.5377929646450872
+                ],
+                "size": 4.718853204575183
+            },
+            {
+                "center": [
+                    4.208082807294345,
+                    1.2866447004776138
+                ],
+                "size": 2.789139903431387
+            },
+            {
+                "center": [
+                    4.199657154050313,
+                    1.172296974741121
+                ],
+                "size": 1.3418549275735403
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_5_image_1_thickness_4.pdf",
+        "depth": 5,
+        "center": [
+            3.4151009104271353,
+            0.38357716020776245
+        ],
+        "initial_size": 10.722405697022548,
+        "reduction_factor": 0.75,
+        "line_thickness": 4,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    3.4151009104271353,
+                    0.38357716020776245
+                ],
+                "size": 10.722405697022548
+            },
+            {
+                "center": [
+                    4.012100118661502,
+                    0.7872533835890168
+                ],
+                "size": 7.29180427276691
+            },
+            {
+                "center": [
+                    4.656812187337724,
+                    1.5377929646450872
+                ],
+                "size": 4.718853204575183
+            },
+            {
+                "center": [
+                    4.208082807294345,
+                    1.2866447004776138
+                ],
+                "size": 2.789139903431387
+            },
+            {
+                "center": [
+                    4.199657154050313,
+                    1.172296974741121
+                ],
+                "size": 1.3418549275735403
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_5_image_2_thickness_2.pdf",
+        "depth": 5,
+        "center": [
+            -3.503374294411319,
+            3.596737088616896
+        ],
+        "initial_size": 13.377106051751085,
+        "reduction_factor": 0.75,
+        "line_thickness": 2,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    -3.503374294411319,
+                    3.596737088616896
+                ],
+                "size": 13.377106051751085
+            },
+            {
+                "center": [
+                    -3.6332159234214085,
+                    4.379704357271468
+                ],
+                "size": 9.282829538813314
+            },
+            {
+                "center": [
+                    -4.4731102507011915,
+                    3.6595291631090876
+                ],
+                "size": 6.212122154109985
+            },
+            {
+                "center": [
+                    -3.9812272542354306,
+                    3.6272454096676827
+                ],
+                "size": 3.909091615582489
+            },
+            {
+                "center": [
+                    -3.6926630910615663,
+                    3.797830669002404
+                ],
+                "size": 2.1818187116868666
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_5_image_2_thickness_3.pdf",
+        "depth": 5,
+        "center": [
+            -3.503374294411319,
+            3.596737088616896
+        ],
+        "initial_size": 13.377106051751085,
+        "reduction_factor": 0.75,
+        "line_thickness": 3,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    -3.503374294411319,
+                    3.596737088616896
+                ],
+                "size": 13.377106051751085
+            },
+            {
+                "center": [
+                    -3.6332159234214085,
+                    4.379704357271468
+                ],
+                "size": 9.282829538813314
+            },
+            {
+                "center": [
+                    -4.4731102507011915,
+                    3.6595291631090876
+                ],
+                "size": 6.212122154109985
+            },
+            {
+                "center": [
+                    -3.9812272542354306,
+                    3.6272454096676827
+                ],
+                "size": 3.909091615582489
+            },
+            {
+                "center": [
+                    -3.6926630910615663,
+                    3.797830669002404
+                ],
+                "size": 2.1818187116868666
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_5_image_2_thickness_4.pdf",
+        "depth": 5,
+        "center": [
+            -3.503374294411319,
+            3.596737088616896
+        ],
+        "initial_size": 13.377106051751085,
+        "reduction_factor": 0.75,
+        "line_thickness": 4,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    -3.503374294411319,
+                    3.596737088616896
+                ],
+                "size": 13.377106051751085
+            },
+            {
+                "center": [
+                    -3.6332159234214085,
+                    4.379704357271468
+                ],
+                "size": 9.282829538813314
+            },
+            {
+                "center": [
+                    -4.4731102507011915,
+                    3.6595291631090876
+                ],
+                "size": 6.212122154109985
+            },
+            {
+                "center": [
+                    -3.9812272542354306,
+                    3.6272454096676827
+                ],
+                "size": 3.909091615582489
+            },
+            {
+                "center": [
+                    -3.6926630910615663,
+                    3.797830669002404
+                ],
+                "size": 2.1818187116868666
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_5_image_3_thickness_2.pdf",
+        "depth": 5,
+        "center": [
+            -0.19576878885078397,
+            1.4637571823768516
+        ],
+        "initial_size": 8.980035970235683,
+        "reduction_factor": 0.75,
+        "line_thickness": 2,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    -0.19576878885078397,
+                    1.4637571823768516
+                ],
+                "size": 8.980035970235683
+            },
+            {
+                "center": [
+                    0.17972451375714638,
+                    1.2595439860125
+                ],
+                "size": 5.985026977676762
+            },
+            {
+                "center": [
+                    -0.1416702658571788,
+                    1.5646161631159146
+                ],
+                "size": 3.738770233257572
+            },
+            {
+                "center": [
+                    -0.15127415845787157,
+                    1.793927506264119
+                ],
+                "size": 2.054077674943179
+            },
+            {
+                "center": [
+                    0.015310565036410317,
+                    1.8265277277191774
+                ],
+                "size": 0.7905582562073843
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_5_image_3_thickness_3.pdf",
+        "depth": 5,
+        "center": [
+            -0.19576878885078397,
+            1.4637571823768516
+        ],
+        "initial_size": 8.980035970235683,
+        "reduction_factor": 0.75,
+        "line_thickness": 3,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    -0.19576878885078397,
+                    1.4637571823768516
+                ],
+                "size": 8.980035970235683
+            },
+            {
+                "center": [
+                    0.17972451375714638,
+                    1.2595439860125
+                ],
+                "size": 5.985026977676762
+            },
+            {
+                "center": [
+                    -0.1416702658571788,
+                    1.5646161631159146
+                ],
+                "size": 3.738770233257572
+            },
+            {
+                "center": [
+                    -0.15127415845787157,
+                    1.793927506264119
+                ],
+                "size": 2.054077674943179
+            },
+            {
+                "center": [
+                    0.015310565036410317,
+                    1.8265277277191774
+                ],
+                "size": 0.7905582562073843
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_5_image_3_thickness_4.pdf",
+        "depth": 5,
+        "center": [
+            -0.19576878885078397,
+            1.4637571823768516
+        ],
+        "initial_size": 8.980035970235683,
+        "reduction_factor": 0.75,
+        "line_thickness": 4,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    -0.19576878885078397,
+                    1.4637571823768516
+                ],
+                "size": 8.980035970235683
+            },
+            {
+                "center": [
+                    0.17972451375714638,
+                    1.2595439860125
+                ],
+                "size": 5.985026977676762
+            },
+            {
+                "center": [
+                    -0.1416702658571788,
+                    1.5646161631159146
+                ],
+                "size": 3.738770233257572
+            },
+            {
+                "center": [
+                    -0.15127415845787157,
+                    1.793927506264119
+                ],
+                "size": 2.054077674943179
+            },
+            {
+                "center": [
+                    0.015310565036410317,
+                    1.8265277277191774
+                ],
+                "size": 0.7905582562073843
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_5_image_4_thickness_2.pdf",
+        "depth": 5,
+        "center": [
+            -2.9160225283763683,
+            -3.521010678870021
+        ],
+        "initial_size": 13.815151175526871,
+        "reduction_factor": 0.75,
+        "line_thickness": 2,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    -2.9160225283763683,
+                    -3.521010678870021
+                ],
+                "size": 13.815151175526871
+            },
+            {
+                "center": [
+                    -1.5143981720534097,
+                    -2.0613045585407788
+                ],
+                "size": 9.611363381645154
+            },
+            {
+                "center": [
+                    -0.342259396192373,
+                    -1.7117369941076532
+                ],
+                "size": 6.458522536233865
+            },
+            {
+                "center": [
+                    -0.8150083983656349,
+                    -1.0025919147272078
+                ],
+                "size": 4.093891902175399
+            },
+            {
+                "center": [
+                    -1.3255372178905054,
+                    -1.3014663220852893
+                ],
+                "size": 2.320418926631549
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_5_image_4_thickness_3.pdf",
+        "depth": 5,
+        "center": [
+            -2.9160225283763683,
+            -3.521010678870021
+        ],
+        "initial_size": 13.815151175526871,
+        "reduction_factor": 0.75,
+        "line_thickness": 3,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    -2.9160225283763683,
+                    -3.521010678870021
+                ],
+                "size": 13.815151175526871
+            },
+            {
+                "center": [
+                    -1.5143981720534097,
+                    -2.0613045585407788
+                ],
+                "size": 9.611363381645154
+            },
+            {
+                "center": [
+                    -0.342259396192373,
+                    -1.7117369941076532
+                ],
+                "size": 6.458522536233865
+            },
+            {
+                "center": [
+                    -0.8150083983656349,
+                    -1.0025919147272078
+                ],
+                "size": 4.093891902175399
+            },
+            {
+                "center": [
+                    -1.3255372178905054,
+                    -1.3014663220852893
+                ],
+                "size": 2.320418926631549
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_5_image_4_thickness_4.pdf",
+        "depth": 5,
+        "center": [
+            -2.9160225283763683,
+            -3.521010678870021
+        ],
+        "initial_size": 13.815151175526871,
+        "reduction_factor": 0.75,
+        "line_thickness": 4,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    -2.9160225283763683,
+                    -3.521010678870021
+                ],
+                "size": 13.815151175526871
+            },
+            {
+                "center": [
+                    -1.5143981720534097,
+                    -2.0613045585407788
+                ],
+                "size": 9.611363381645154
+            },
+            {
+                "center": [
+                    -0.342259396192373,
+                    -1.7117369941076532
+                ],
+                "size": 6.458522536233865
+            },
+            {
+                "center": [
+                    -0.8150083983656349,
+                    -1.0025919147272078
+                ],
+                "size": 4.093891902175399
+            },
+            {
+                "center": [
+                    -1.3255372178905054,
+                    -1.3014663220852893
+                ],
+                "size": 2.320418926631549
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_5_image_5_thickness_2.pdf",
+        "depth": 5,
+        "center": [
+            -1.7477182885573206,
+            3.078896349955089
+        ],
+        "initial_size": 13.637822404932463,
+        "reduction_factor": 0.75,
+        "line_thickness": 2,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    -1.7477182885573206,
+                    3.078896349955089
+                ],
+                "size": 13.637822404932463
+            },
+            {
+                "center": [
+                    -2.782320862757732,
+                    4.6616776661982104
+                ],
+                "size": 9.478366803699346
+            },
+            {
+                "center": [
+                    -3.670604067032941,
+                    5.4583268037521115
+                ],
+                "size": 6.35877510277451
+            },
+            {
+                "center": [
+                    -3.0970780856427735,
+                    5.712123780286096
+                ],
+                "size": 4.019081327080883
+            },
+            {
+                "center": [
+                    -3.0126842949307786,
+                    5.911475734486436
+                ],
+                "size": 2.2643109953106624
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_5_image_5_thickness_3.pdf",
+        "depth": 5,
+        "center": [
+            -1.7477182885573206,
+            3.078896349955089
+        ],
+        "initial_size": 13.637822404932463,
+        "reduction_factor": 0.75,
+        "line_thickness": 3,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    -1.7477182885573206,
+                    3.078896349955089
+                ],
+                "size": 13.637822404932463
+            },
+            {
+                "center": [
+                    -2.782320862757732,
+                    4.6616776661982104
+                ],
+                "size": 9.478366803699346
+            },
+            {
+                "center": [
+                    -3.670604067032941,
+                    5.4583268037521115
+                ],
+                "size": 6.35877510277451
+            },
+            {
+                "center": [
+                    -3.0970780856427735,
+                    5.712123780286096
+                ],
+                "size": 4.019081327080883
+            },
+            {
+                "center": [
+                    -3.0126842949307786,
+                    5.911475734486436
+                ],
+                "size": 2.2643109953106624
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_5_image_5_thickness_4.pdf",
+        "depth": 5,
+        "center": [
+            -1.7477182885573206,
+            3.078896349955089
+        ],
+        "initial_size": 13.637822404932463,
+        "reduction_factor": 0.75,
+        "line_thickness": 4,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    -1.7477182885573206,
+                    3.078896349955089
+                ],
+                "size": 13.637822404932463
+            },
+            {
+                "center": [
+                    -2.782320862757732,
+                    4.6616776661982104
+                ],
+                "size": 9.478366803699346
+            },
+            {
+                "center": [
+                    -3.670604067032941,
+                    5.4583268037521115
+                ],
+                "size": 6.35877510277451
+            },
+            {
+                "center": [
+                    -3.0970780856427735,
+                    5.712123780286096
+                ],
+                "size": 4.019081327080883
+            },
+            {
+                "center": [
+                    -3.0126842949307786,
+                    5.911475734486436
+                ],
+                "size": 2.2643109953106624
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_5_image_6_thickness_2.pdf",
+        "depth": 5,
+        "center": [
+            0.23797062013257708,
+            4.4945656618126755
+        ],
+        "initial_size": 14.233810135845921,
+        "reduction_factor": 0.75,
+        "line_thickness": 2,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    0.23797062013257708,
+                    4.4945656618126755
+                ],
+                "size": 14.233810135845921
+            },
+            {
+                "center": [
+                    1.6084362815138924,
+                    3.5510125349238986
+                ],
+                "size": 9.925357601884441
+            },
+            {
+                "center": [
+                    1.959591982041645,
+                    4.553870888894844
+                ],
+                "size": 6.69401820141333
+            },
+            {
+                "center": [
+                    1.317270754602013,
+                    5.224216279192122
+                ],
+                "size": 4.270513651059998
+            },
+            {
+                "center": [
+                    1.7287438310140093,
+                    4.743157202269924
+                ],
+                "size": 2.4528852382949986
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_5_image_6_thickness_3.pdf",
+        "depth": 5,
+        "center": [
+            0.23797062013257708,
+            4.4945656618126755
+        ],
+        "initial_size": 14.233810135845921,
+        "reduction_factor": 0.75,
+        "line_thickness": 3,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    0.23797062013257708,
+                    4.4945656618126755
+                ],
+                "size": 14.233810135845921
+            },
+            {
+                "center": [
+                    1.6084362815138924,
+                    3.5510125349238986
+                ],
+                "size": 9.925357601884441
+            },
+            {
+                "center": [
+                    1.959591982041645,
+                    4.553870888894844
+                ],
+                "size": 6.69401820141333
+            },
+            {
+                "center": [
+                    1.317270754602013,
+                    5.224216279192122
+                ],
+                "size": 4.270513651059998
+            },
+            {
+                "center": [
+                    1.7287438310140093,
+                    4.743157202269924
+                ],
+                "size": 2.4528852382949986
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_5_image_6_thickness_4.pdf",
+        "depth": 5,
+        "center": [
+            0.23797062013257708,
+            4.4945656618126755
+        ],
+        "initial_size": 14.233810135845921,
+        "reduction_factor": 0.75,
+        "line_thickness": 4,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    0.23797062013257708,
+                    4.4945656618126755
+                ],
+                "size": 14.233810135845921
+            },
+            {
+                "center": [
+                    1.6084362815138924,
+                    3.5510125349238986
+                ],
+                "size": 9.925357601884441
+            },
+            {
+                "center": [
+                    1.959591982041645,
+                    4.553870888894844
+                ],
+                "size": 6.69401820141333
+            },
+            {
+                "center": [
+                    1.317270754602013,
+                    5.224216279192122
+                ],
+                "size": 4.270513651059998
+            },
+            {
+                "center": [
+                    1.7287438310140093,
+                    4.743157202269924
+                ],
+                "size": 2.4528852382949986
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_5_image_7_thickness_2.pdf",
+        "depth": 5,
+        "center": [
+            -0.7441015274777874,
+            -2.7211133293299827
+        ],
+        "initial_size": 9.491932859657904,
+        "reduction_factor": 0.75,
+        "line_thickness": 2,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    -0.7441015274777874,
+                    -2.7211133293299827
+                ],
+                "size": 9.491932859657904
+            },
+            {
+                "center": [
+                    -1.5041619123636207,
+                    -1.7756324869629752
+                ],
+                "size": 6.368949644743428
+            },
+            {
+                "center": [
+                    -0.8730255620306322,
+                    -1.40101971322293
+                ],
+                "size": 4.026712233557571
+            },
+            {
+                "center": [
+                    -0.6387848172804307,
+                    -1.5226094436319422
+                ],
+                "size": 2.2700341751681785
+            },
+            {
+                "center": [
+                    -0.727867296208438,
+                    -1.3858620702106164
+                ],
+                "size": 0.9525256313761339
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_5_image_7_thickness_3.pdf",
+        "depth": 5,
+        "center": [
+            -0.7441015274777874,
+            -2.7211133293299827
+        ],
+        "initial_size": 9.491932859657904,
+        "reduction_factor": 0.75,
+        "line_thickness": 3,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    -0.7441015274777874,
+                    -2.7211133293299827
+                ],
+                "size": 9.491932859657904
+            },
+            {
+                "center": [
+                    -1.5041619123636207,
+                    -1.7756324869629752
+                ],
+                "size": 6.368949644743428
+            },
+            {
+                "center": [
+                    -0.8730255620306322,
+                    -1.40101971322293
+                ],
+                "size": 4.026712233557571
+            },
+            {
+                "center": [
+                    -0.6387848172804307,
+                    -1.5226094436319422
+                ],
+                "size": 2.2700341751681785
+            },
+            {
+                "center": [
+                    -0.727867296208438,
+                    -1.3858620702106164
+                ],
+                "size": 0.9525256313761339
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_5_image_7_thickness_4.pdf",
+        "depth": 5,
+        "center": [
+            -0.7441015274777874,
+            -2.7211133293299827
+        ],
+        "initial_size": 9.491932859657904,
+        "reduction_factor": 0.75,
+        "line_thickness": 4,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    -0.7441015274777874,
+                    -2.7211133293299827
+                ],
+                "size": 9.491932859657904
+            },
+            {
+                "center": [
+                    -1.5041619123636207,
+                    -1.7756324869629752
+                ],
+                "size": 6.368949644743428
+            },
+            {
+                "center": [
+                    -0.8730255620306322,
+                    -1.40101971322293
+                ],
+                "size": 4.026712233557571
+            },
+            {
+                "center": [
+                    -0.6387848172804307,
+                    -1.5226094436319422
+                ],
+                "size": 2.2700341751681785
+            },
+            {
+                "center": [
+                    -0.727867296208438,
+                    -1.3858620702106164
+                ],
+                "size": 0.9525256313761339
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_5_image_8_thickness_2.pdf",
+        "depth": 5,
+        "center": [
+            -2.3617733461552772,
+            -4.532916650836357
+        ],
+        "initial_size": 16.255611160870693,
+        "reduction_factor": 0.75,
+        "line_thickness": 2,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    -2.3617733461552772,
+                    -4.532916650836357
+                ],
+                "size": 16.255611160870693
+            },
+            {
+                "center": [
+                    -2.956745356620043,
+                    -4.838179747572702
+                ],
+                "size": 11.44170837065302
+            },
+            {
+                "center": [
+                    -2.1952097126350965,
+                    -5.063795205711273
+                ],
+                "size": 7.831281277989765
+            },
+            {
+                "center": [
+                    -1.7426398031932748,
+                    -5.241950067221103
+                ],
+                "size": 5.123460958492323
+            },
+            {
+                "center": [
+                    -2.15399775936357,
+                    -5.32450386056737
+                ],
+                "size": 3.0925957188692426
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_5_image_8_thickness_3.pdf",
+        "depth": 5,
+        "center": [
+            -2.3617733461552772,
+            -4.532916650836357
+        ],
+        "initial_size": 16.255611160870693,
+        "reduction_factor": 0.75,
+        "line_thickness": 3,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    -2.3617733461552772,
+                    -4.532916650836357
+                ],
+                "size": 16.255611160870693
+            },
+            {
+                "center": [
+                    -2.956745356620043,
+                    -4.838179747572702
+                ],
+                "size": 11.44170837065302
+            },
+            {
+                "center": [
+                    -2.1952097126350965,
+                    -5.063795205711273
+                ],
+                "size": 7.831281277989765
+            },
+            {
+                "center": [
+                    -1.7426398031932748,
+                    -5.241950067221103
+                ],
+                "size": 5.123460958492323
+            },
+            {
+                "center": [
+                    -2.15399775936357,
+                    -5.32450386056737
+                ],
+                "size": 3.0925957188692426
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_5_image_8_thickness_4.pdf",
+        "depth": 5,
+        "center": [
+            -2.3617733461552772,
+            -4.532916650836357
+        ],
+        "initial_size": 16.255611160870693,
+        "reduction_factor": 0.75,
+        "line_thickness": 4,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    -2.3617733461552772,
+                    -4.532916650836357
+                ],
+                "size": 16.255611160870693
+            },
+            {
+                "center": [
+                    -2.956745356620043,
+                    -4.838179747572702
+                ],
+                "size": 11.44170837065302
+            },
+            {
+                "center": [
+                    -2.1952097126350965,
+                    -5.063795205711273
+                ],
+                "size": 7.831281277989765
+            },
+            {
+                "center": [
+                    -1.7426398031932748,
+                    -5.241950067221103
+                ],
+                "size": 5.123460958492323
+            },
+            {
+                "center": [
+                    -2.15399775936357,
+                    -5.32450386056737
+                ],
+                "size": 3.0925957188692426
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_5_image_9_thickness_2.pdf",
+        "depth": 5,
+        "center": [
+            4.67396043765117,
+            -3.0838745620859322
+        ],
+        "initial_size": 10.089593106347337,
+        "reduction_factor": 0.75,
+        "line_thickness": 2,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    4.67396043765117,
+                    -3.0838745620859322
+                ],
+                "size": 10.089593106347337
+            },
+            {
+                "center": [
+                    5.490506587374346,
+                    -2.8862794173613673
+                ],
+                "size": 6.817194829760503
+            },
+            {
+                "center": [
+                    5.556560814283246,
+                    -2.8249195345983904
+                ],
+                "size": 4.362896122320377
+            },
+            {
+                "center": [
+                    5.087937350722846,
+                    -2.488859135786803
+                ],
+                "size": 2.522172091740283
+            },
+            {
+                "center": [
+                    5.215703337686559,
+                    -2.755690216266736
+                ],
+                "size": 1.1416290688052122
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_5_image_9_thickness_3.pdf",
+        "depth": 5,
+        "center": [
+            4.67396043765117,
+            -3.0838745620859322
+        ],
+        "initial_size": 10.089593106347337,
+        "reduction_factor": 0.75,
+        "line_thickness": 3,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    4.67396043765117,
+                    -3.0838745620859322
+                ],
+                "size": 10.089593106347337
+            },
+            {
+                "center": [
+                    5.490506587374346,
+                    -2.8862794173613673
+                ],
+                "size": 6.817194829760503
+            },
+            {
+                "center": [
+                    5.556560814283246,
+                    -2.8249195345983904
+                ],
+                "size": 4.362896122320377
+            },
+            {
+                "center": [
+                    5.087937350722846,
+                    -2.488859135786803
+                ],
+                "size": 2.522172091740283
+            },
+            {
+                "center": [
+                    5.215703337686559,
+                    -2.755690216266736
+                ],
+                "size": 1.1416290688052122
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_5_image_9_thickness_4.pdf",
+        "depth": 5,
+        "center": [
+            4.67396043765117,
+            -3.0838745620859322
+        ],
+        "initial_size": 10.089593106347337,
+        "reduction_factor": 0.75,
+        "line_thickness": 4,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    4.67396043765117,
+                    -3.0838745620859322
+                ],
+                "size": 10.089593106347337
+            },
+            {
+                "center": [
+                    5.490506587374346,
+                    -2.8862794173613673
+                ],
+                "size": 6.817194829760503
+            },
+            {
+                "center": [
+                    5.556560814283246,
+                    -2.8249195345983904
+                ],
+                "size": 4.362896122320377
+            },
+            {
+                "center": [
+                    5.087937350722846,
+                    -2.488859135786803
+                ],
+                "size": 2.522172091740283
+            },
+            {
+                "center": [
+                    5.215703337686559,
+                    -2.755690216266736
+                ],
+                "size": 1.1416290688052122
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_5_image_10_thickness_2.pdf",
+        "depth": 5,
+        "center": [
+            1.9609214825730987,
+            0.5292444140056896
+        ],
+        "initial_size": 8.411050866400238,
+        "reduction_factor": 0.75,
+        "line_thickness": 2,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    1.9609214825730987,
+                    0.5292444140056896
+                ],
+                "size": 8.411050866400238
+            },
+            {
+                "center": [
+                    1.5477173124399604,
+                    1.5101515153034266
+                ],
+                "size": 5.558288149800179
+            },
+            {
+                "center": [
+                    1.2956999816291364,
+                    1.6973923636576829
+                ],
+                "size": 3.4187161123501344
+            },
+            {
+                "center": [
+                    1.265866830708752,
+                    1.641481542250384
+                ],
+                "size": 1.8140370842626008
+            },
+            {
+                "center": [
+                    1.0606262025874802,
+                    1.47617939388371
+                ],
+                "size": 0.6105278131969505
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_5_image_10_thickness_3.pdf",
+        "depth": 5,
+        "center": [
+            1.9609214825730987,
+            0.5292444140056896
+        ],
+        "initial_size": 8.411050866400238,
+        "reduction_factor": 0.75,
+        "line_thickness": 3,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    1.9609214825730987,
+                    0.5292444140056896
+                ],
+                "size": 8.411050866400238
+            },
+            {
+                "center": [
+                    1.5477173124399604,
+                    1.5101515153034266
+                ],
+                "size": 5.558288149800179
+            },
+            {
+                "center": [
+                    1.2956999816291364,
+                    1.6973923636576829
+                ],
+                "size": 3.4187161123501344
+            },
+            {
+                "center": [
+                    1.265866830708752,
+                    1.641481542250384
+                ],
+                "size": 1.8140370842626008
+            },
+            {
+                "center": [
+                    1.0606262025874802,
+                    1.47617939388371
+                ],
+                "size": 0.6105278131969505
+            }
+        ]
+    },
+    {
+        "image_name": "nested_squares_depth_5_image_10_thickness_4.pdf",
+        "depth": 5,
+        "center": [
+            1.9609214825730987,
+            0.5292444140056896
+        ],
+        "initial_size": 8.411050866400238,
+        "reduction_factor": 0.75,
+        "line_thickness": 4,
+        "padding": 0.75,
+        "squares": [
+            {
+                "center": [
+                    1.9609214825730987,
+                    0.5292444140056896
+                ],
+                "size": 8.411050866400238
+            },
+            {
+                "center": [
+                    1.5477173124399604,
+                    1.5101515153034266
+                ],
+                "size": 5.558288149800179
+            },
+            {
+                "center": [
+                    1.2956999816291364,
+                    1.6973923636576829
+                ],
+                "size": 3.4187161123501344
+            },
+            {
+                "center": [
+                    1.265866830708752,
+                    1.641481542250384
+                ],
+                "size": 1.8140370842626008
+            },
+            {
+                "center": [
+                    1.0606262025874802,
+                    1.47617939388371
+                ],
+                "size": 0.6105278131969505
+            }
+        ]
+    }
+]
