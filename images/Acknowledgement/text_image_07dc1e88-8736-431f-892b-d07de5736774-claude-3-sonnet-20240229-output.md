@@ -1,0 +1,1 @@
+The letter being circled in the word "Acknowledgement" is the letter "e".
